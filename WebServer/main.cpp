@@ -2,7 +2,7 @@
  * @Author: czw
  * @Date: 2021-07-21 13:29:07
  * @LastEditors: czw
- * @LastEditTime: 2021-07-21 13:29:07
+ * @LastEditTime: 2021-07-22 02:22:24
  */
 
 #include "config.h"
@@ -12,7 +12,7 @@ int main(int argc, char *argv[])
     //需要修改的数据库信息,登录名,密码,库名
     string user = "root";
     string passwd = "czwjss";
-    string databasename = "server";
+    string databasename = "webserverdb";
 
     //命令行解析
     Config config;
