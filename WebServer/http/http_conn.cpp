@@ -323,7 +323,7 @@ http_conn::HTTP_CODE http_conn::parse_content(char *text)
 }
 
 
-//读取请求 并处理
+//读取请求 并开始处理
 http_conn::HTTP_CODE http_conn::process_read()
 {
     LINE_STATUS line_status = LINE_OK;
