@@ -2,7 +2,7 @@
  * @Author: czw
  * @Date: 2021-07-21 13:23:38
  * @LastEditors: czw
- * @LastEditTime: 2021-07-21 13:28:32
+ * @LastEditTime: 2021-07-22 10:10:26
  */
 #include "config.h"
 
@@ -23,10 +23,10 @@ Config::Config(){
     TRIGMode = 3;
 
     //listenfd触发模式
-    LISTENTrigmode = 1;
+    LISTENTrigmode = 0;
 
     //connfd触发模式
-    CONNTrigmode = 1;
+    CONNTrigmode = 0;
 
     //优雅关闭链接，默认不使用
     OPT_LINGER = 0;
