@@ -2,7 +2,7 @@
  * @Author: czw
  * @Date: 2021-07-21 12:02:40
  * @LastEditors: czw
- * @LastEditTime: 2021-07-22 04:23:37
+ * @LastEditTime: 2021-07-28 03:01:56
  */
 
 
@@ -343,6 +343,37 @@ http_conn::HTTP_CODE http_conn::parse_headers(char *text)
 }
 
 
+//url 编码解码
+ char* urldecode( char* encd, char* decd)   
+{   
+    int j,i;   
+    char *cd =(char*) encd;   
+    char p[2];   
+    int num;   
+    j=0;   
+  
+    for( i = 0; i < strlen(cd); i++ )   
+    {   
+        memset( p, '\0', 2 );   
+        if( cd[i] != '%' )   
+        {   
+            decd[j++] = cd[i];   
+            continue;   
+        }   
+    
+  p[0] = cd[++i];   
+        p[1] = cd[++i];   
+  
+        p[0] = p[0] - 48 - ((p[0] >= 'A') ? 7 : 0) - ((p[0] >= 'a') ? 32 : 0);   
+        p[1] = p[1] - 48 - ((p[1] >= 'A') ? 7 : 0) - ((p[1] >= 'a') ? 32 : 0);   
+        decd[j++] = (char)(p[0] * 16 + p[1]);   
+    
+    }   
+    decd[j] = '\0';   
+  
+    return decd;   
+}
+
 //判断http请求是否被完整读入
 http_conn::HTTP_CODE http_conn::parse_content(char *text)
 {
@@ -351,10 +382,13 @@ http_conn::HTTP_CODE http_conn::parse_content(char *text)
         text[m_content_length] = '\0';
         //POST请求中最后为输入的用户名和密码
         m_string = text;
+        //解码
+        m_string =urldecode(m_string,m_string);
         return GET_REQUEST;
     }
     return NO_REQUEST;
 }
+
 
 
 //读取请求 并开始处理

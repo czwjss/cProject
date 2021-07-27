@@ -1,0 +1,1500 @@
+2021-07-23 15:25:56.770483 [info]: timer tick
+2021-07-23 15:26:01.770873 [info]: timer tick
+2021-07-23 15:26:04.205046 [erro]: accept error:errno is:11
+2021-07-23 15:26:04.214064 [info]: deal with the client(127.0.0.1)
+2021-07-23 15:26:04.214132 [info]: adjust timer once
+2021-07-23 15:26:04.214459 [info]: GET / HTTP/1.1
+2021-07-23 15:26:04.214482 [info]: Host: 127.0.0.1:9006
+2021-07-23 15:26:04.214487 [info]: Connection: keep-alive
+2021-07-23 15:26:04.214489 [info]: sec-ch-ua: "Chromium";v="92", " Not A;Brand";v="99", "Google Chrome";v="92"
+2021-07-23 15:26:04.214492 [info]: oop!unknow header: sec-ch-ua: "Chromium";v="92", " Not A;Brand";v="99", "Google Chrome";v="92"
+2021-07-23 15:26:04.214494 [info]: sec-ch-ua-mobile: ?0
+2021-07-23 15:26:04.214497 [info]: oop!unknow header: sec-ch-ua-mobile: ?0
+2021-07-23 15:26:04.214499 [info]: Upgrade-Insecure-Requests: 1
+2021-07-23 15:26:04.214504 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2021-07-23 15:26:04.214506 [info]: User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36
+2021-07-23 15:26:04.214509 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36
+2021-07-23 15:26:04.214511 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+2021-07-23 15:26:04.214514 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+2021-07-23 15:26:04.214516 [info]: Sec-Fetch-Site: none
+2021-07-23 15:26:04.214519 [info]: oop!unknow header: Sec-Fetch-Site: none
+2021-07-23 15:26:04.214521 [info]: Sec-Fetch-Mode: navigate
+2021-07-23 15:26:04.214523 [info]: oop!unknow header: Sec-Fetch-Mode: navigate
+2021-07-23 15:26:04.214525 [info]: Sec-Fetch-User: ?1
+2021-07-23 15:26:04.214528 [info]: oop!unknow header: Sec-Fetch-User: ?1
+2021-07-23 15:26:04.214530 [info]: Sec-Fetch-Dest: document
+2021-07-23 15:26:04.214532 [info]: oop!unknow header: Sec-Fetch-Dest: document
+2021-07-23 15:26:04.214534 [info]: Accept-Encoding: gzip, deflate, br
+2021-07-23 15:26:04.214537 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br
+2021-07-23 15:26:04.214539 [info]: Accept-Language: zh-CN,zh;q=0.9
+2021-07-23 15:26:04.214541 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9
+2021-07-23 15:26:04.214544 [info]: 
+2021-07-23 15:26:04.214570 [info]: request:HTTP/1.1 200 OK
+
+2021-07-23 15:26:04.214576 [info]: request:HTTP/1.1 200 OK
+Content-Length:781
+
+2021-07-23 15:26:04.214579 [info]: request:HTTP/1.1 200 OK
+Content-Length:781
+Connection:keep-alive
+
+2021-07-23 15:26:04.214581 [info]: request:HTTP/1.1 200 OK
+Content-Length:781
+Connection:keep-alive
+
+
+2021-07-23 15:26:04.215296 [info]: send data to the client(127.0.0.1)
+2021-07-23 15:26:04.215324 [info]: adjust timer once
+2021-07-23 15:26:06.397521 [info]: deal with the client(127.0.0.1)
+2021-07-23 15:26:06.397607 [info]: adjust timer once
+2021-07-23 15:26:06.398399 [info]: POST /1 HTTP/1.1
+2021-07-23 15:26:06.398464 [info]: Host: 127.0.0.1:9006
+2021-07-23 15:26:06.398473 [info]: Connection: keep-alive
+2021-07-23 15:26:06.398476 [info]: Content-Length: 0
+2021-07-23 15:26:06.398483 [info]: Cache-Control: max-age=0
+2021-07-23 15:26:06.398486 [info]: oop!unknow header: Cache-Control: max-age=0
+2021-07-23 15:26:06.398489 [info]: sec-ch-ua: "Chromium";v="92", " Not A;Brand";v="99", "Google Chrome";v="92"
+2021-07-23 15:26:06.398491 [info]: oop!unknow header: sec-ch-ua: "Chromium";v="92", " Not A;Brand";v="99", "Google Chrome";v="92"
+2021-07-23 15:26:06.398497 [info]: sec-ch-ua-mobile: ?0
+2021-07-23 15:26:06.398500 [info]: oop!unknow header: sec-ch-ua-mobile: ?0
+2021-07-23 15:26:06.398502 [info]: Upgrade-Insecure-Requests: 1
+2021-07-23 15:26:06.398505 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2021-07-23 15:26:06.398507 [info]: Origin: http://127.0.0.1:9006
+2021-07-23 15:26:06.398509 [info]: oop!unknow header: Origin: http://127.0.0.1:9006
+2021-07-23 15:26:06.398512 [info]: Content-Type: application/x-www-form-urlencoded
+2021-07-23 15:26:06.398515 [info]: oop!unknow header: Content-Type: application/x-www-form-urlencoded
+2021-07-23 15:26:06.398518 [info]: User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36
+2021-07-23 15:26:06.398521 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36
+2021-07-23 15:26:06.398523 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+2021-07-23 15:26:06.398526 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+2021-07-23 15:26:06.398528 [info]: Sec-Fetch-Site: same-origin
+2021-07-23 15:26:06.398530 [info]: oop!unknow header: Sec-Fetch-Site: same-origin
+2021-07-23 15:26:06.398532 [info]: Sec-Fetch-Mode: navigate
+2021-07-23 15:26:06.398546 [info]: oop!unknow header: Sec-Fetch-Mode: navigate
+2021-07-23 15:26:06.398551 [info]: Sec-Fetch-User: ?1
+2021-07-23 15:26:06.398553 [info]: oop!unknow header: Sec-Fetch-User: ?1
+2021-07-23 15:26:06.398556 [info]: Sec-Fetch-Dest: document
+2021-07-23 15:26:06.398558 [info]: oop!unknow header: Sec-Fetch-Dest: document
+2021-07-23 15:26:06.398560 [info]: Referer: http://127.0.0.1:9006/
+2021-07-23 15:26:06.398562 [info]: oop!unknow header: Referer: http://127.0.0.1:9006/
+2021-07-23 15:26:06.398565 [info]: Accept-Encoding: gzip, deflate, br
+2021-07-23 15:26:06.398567 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br
+2021-07-23 15:26:06.398569 [info]: Accept-Language: zh-CN,zh;q=0.9
+2021-07-23 15:26:06.398572 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9
+2021-07-23 15:26:06.398574 [info]: 
+2021-07-23 15:26:06.398599 [info]: request:HTTP/1.1 200 OK
+
+2021-07-23 15:26:06.398605 [info]: request:HTTP/1.1 200 OK
+Content-Length:908
+
+2021-07-23 15:26:06.398608 [info]: request:HTTP/1.1 200 OK
+Content-Length:908
+Connection:keep-alive
+
+2021-07-23 15:26:06.398610 [info]: request:HTTP/1.1 200 OK
+Content-Length:908
+Connection:keep-alive
+
+
+2021-07-23 15:26:06.399436 [info]: send data to the client(127.0.0.1)
+2021-07-23 15:26:06.399478 [info]: adjust timer once
+2021-07-23 15:26:06.771433 [info]: timer tick
+2021-07-23 15:26:07.993953 [info]: deal with the client(127.0.0.1)
+2021-07-23 15:26:07.994008 [info]: adjust timer once
+2021-07-23 15:26:07.994569 [info]: POST /2 HTTP/1.1
+2021-07-23 15:26:07.994612 [info]: Host: 127.0.0.1:9006
+2021-07-23 15:26:07.994620 [info]: Connection: keep-alive
+2021-07-23 15:26:07.994633 [info]: Content-Length: 24
+2021-07-23 15:26:07.994639 [info]: Cache-Control: max-age=0
+2021-07-23 15:26:07.994642 [info]: oop!unknow header: Cache-Control: max-age=0
+2021-07-23 15:26:07.994644 [info]: sec-ch-ua: "Chromium";v="92", " Not A;Brand";v="99", "Google Chrome";v="92"
+2021-07-23 15:26:07.994647 [info]: oop!unknow header: sec-ch-ua: "Chromium";v="92", " Not A;Brand";v="99", "Google Chrome";v="92"
+2021-07-23 15:26:07.994652 [info]: sec-ch-ua-mobile: ?0
+2021-07-23 15:26:07.994655 [info]: oop!unknow header: sec-ch-ua-mobile: ?0
+2021-07-23 15:26:07.994657 [info]: Upgrade-Insecure-Requests: 1
+2021-07-23 15:26:07.994660 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2021-07-23 15:26:07.994662 [info]: Origin: http://127.0.0.1:9006
+2021-07-23 15:26:07.994664 [info]: oop!unknow header: Origin: http://127.0.0.1:9006
+2021-07-23 15:26:07.994667 [info]: Content-Type: application/x-www-form-urlencoded
+2021-07-23 15:26:07.994669 [info]: oop!unknow header: Content-Type: application/x-www-form-urlencoded
+2021-07-23 15:26:07.994672 [info]: User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36
+2021-07-23 15:26:07.994674 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36
+2021-07-23 15:26:07.994677 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+2021-07-23 15:26:07.994679 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+2021-07-23 15:26:07.994681 [info]: Sec-Fetch-Site: same-origin
+2021-07-23 15:26:07.994684 [info]: oop!unknow header: Sec-Fetch-Site: same-origin
+2021-07-23 15:26:07.994686 [info]: Sec-Fetch-Mode: navigate
+2021-07-23 15:26:07.994688 [info]: oop!unknow header: Sec-Fetch-Mode: navigate
+2021-07-23 15:26:07.994690 [info]: Sec-Fetch-User: ?1
+2021-07-23 15:26:07.994693 [info]: oop!unknow header: Sec-Fetch-User: ?1
+2021-07-23 15:26:07.994695 [info]: Sec-Fetch-Dest: document
+2021-07-23 15:26:07.994697 [info]: oop!unknow header: Sec-Fetch-Dest: document
+2021-07-23 15:26:07.994700 [info]: Referer: http://127.0.0.1:9006/1
+2021-07-23 15:26:07.994702 [info]: oop!unknow header: Referer: http://127.0.0.1:9006/1
+2021-07-23 15:26:07.994704 [info]: Accept-Encoding: gzip, deflate, br
+2021-07-23 15:26:07.994706 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br
+2021-07-23 15:26:07.994709 [info]: Accept-Language: zh-CN,zh;q=0.9
+2021-07-23 15:26:07.994711 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9
+2021-07-23 15:26:07.994713 [info]: 
+2021-07-23 15:26:07.994715 [info]: user=czw&password=czwjss
+2021-07-23 15:26:07.994748 [info]: request:HTTP/1.1 200 OK
+
+2021-07-23 15:26:07.994753 [info]: request:HTTP/1.1 200 OK
+Content-Length:1002
+
+2021-07-23 15:26:07.994756 [info]: request:HTTP/1.1 200 OK
+Content-Length:1002
+Connection:keep-alive
+
+2021-07-23 15:26:07.994759 [info]: request:HTTP/1.1 200 OK
+Content-Length:1002
+Connection:keep-alive
+
+
+2021-07-23 15:26:07.997302 [info]: send data to the client(127.0.0.1)
+2021-07-23 15:26:07.997460 [info]: adjust timer once
+2021-07-23 15:26:11.772517 [info]: timer tick
+2021-07-23 15:26:12.935424 [info]: deal with the client(127.0.0.1)
+2021-07-23 15:26:12.935557 [info]: adjust timer once
+2021-07-23 15:26:12.935644 [info]: POST /0 HTTP/1.1
+2021-07-23 15:26:12.935663 [info]: Host: 127.0.0.1:9006
+2021-07-23 15:26:12.935668 [info]: Connection: keep-alive
+2021-07-23 15:26:12.935670 [info]: Content-Length: 0
+2021-07-23 15:26:12.935674 [info]: Cache-Control: max-age=0
+2021-07-23 15:26:12.935677 [info]: oop!unknow header: Cache-Control: max-age=0
+2021-07-23 15:26:12.935681 [info]: sec-ch-ua: "Chromium";v="92", " Not A;Brand";v="99", "Google Chrome";v="92"
+2021-07-23 15:26:12.935684 [info]: oop!unknow header: sec-ch-ua: "Chromium";v="92", " Not A;Brand";v="99", "Google Chrome";v="92"
+2021-07-23 15:26:12.935689 [info]: sec-ch-ua-mobile: ?0
+2021-07-23 15:26:12.935692 [info]: oop!unknow header: sec-ch-ua-mobile: ?0
+2021-07-23 15:26:12.935695 [info]: Upgrade-Insecure-Requests: 1
+2021-07-23 15:26:12.935697 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2021-07-23 15:26:12.935700 [info]: Origin: http://127.0.0.1:9006
+2021-07-23 15:26:12.935702 [info]: oop!unknow header: Origin: http://127.0.0.1:9006
+2021-07-23 15:26:12.935705 [info]: Content-Type: application/x-www-form-urlencoded
+2021-07-23 15:26:12.935708 [info]: oop!unknow header: Content-Type: application/x-www-form-urlencoded
+2021-07-23 15:26:12.935710 [info]: User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36
+2021-07-23 15:26:12.935713 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36
+2021-07-23 15:26:12.935716 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+2021-07-23 15:26:12.935718 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+2021-07-23 15:26:12.935721 [info]: Sec-Fetch-Site: same-origin
+2021-07-23 15:26:12.935723 [info]: oop!unknow header: Sec-Fetch-Site: same-origin
+2021-07-23 15:26:12.935725 [info]: Sec-Fetch-Mode: navigate
+2021-07-23 15:26:12.935728 [info]: oop!unknow header: Sec-Fetch-Mode: navigate
+2021-07-23 15:26:12.935730 [info]: Sec-Fetch-User: ?1
+2021-07-23 15:26:12.935733 [info]: oop!unknow header: Sec-Fetch-User: ?1
+2021-07-23 15:26:12.935735 [info]: Sec-Fetch-Dest: document
+2021-07-23 15:26:12.935738 [info]: oop!unknow header: Sec-Fetch-Dest: document
+2021-07-23 15:26:12.935741 [info]: Referer: http://127.0.0.1:9006/
+2021-07-23 15:26:12.935743 [info]: oop!unknow header: Referer: http://127.0.0.1:9006/
+2021-07-23 15:26:12.935745 [info]: Accept-Encoding: gzip, deflate, br
+2021-07-23 15:26:12.935748 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br
+2021-07-23 15:26:12.935751 [info]: Accept-Language: zh-CN,zh;q=0.9
+2021-07-23 15:26:12.935754 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9
+2021-07-23 15:26:12.935756 [info]: 
+2021-07-23 15:26:12.935854 [info]: request:HTTP/1.1 200 OK
+
+2021-07-23 15:26:12.935866 [info]: request:HTTP/1.1 200 OK
+Content-Length:906
+
+2021-07-23 15:26:12.935869 [info]: request:HTTP/1.1 200 OK
+Content-Length:906
+Connection:keep-alive
+
+2021-07-23 15:26:12.935872 [info]: request:HTTP/1.1 200 OK
+Content-Length:906
+Connection:keep-alive
+
+
+2021-07-23 15:26:12.941602 [info]: send data to the client(127.0.0.1)
+2021-07-23 15:26:12.941701 [info]: adjust timer once
+2021-07-23 15:26:16.772623 [info]: timer tick
+2021-07-23 15:26:21.773066 [info]: timer tick
+2021-07-23 15:26:24.002849 [info]: deal with the client(127.0.0.1)
+2021-07-23 15:26:24.002944 [info]: adjust timer once
+2021-07-23 15:26:24.002982 [info]: POST /3 HTTP/1.1
+2021-07-23 15:26:24.002993 [info]: Host: 127.0.0.1:9006
+2021-07-23 15:26:24.002997 [info]: Connection: keep-alive
+2021-07-23 15:26:24.002999 [info]: Content-Length: 30
+2021-07-23 15:26:24.003002 [info]: Cache-Control: max-age=0
+2021-07-23 15:26:24.003004 [info]: oop!unknow header: Cache-Control: max-age=0
+2021-07-23 15:26:24.003007 [info]: sec-ch-ua: "Chromium";v="92", " Not A;Brand";v="99", "Google Chrome";v="92"
+2021-07-23 15:26:24.003010 [info]: oop!unknow header: sec-ch-ua: "Chromium";v="92", " Not A;Brand";v="99", "Google Chrome";v="92"
+2021-07-23 15:26:24.003014 [info]: sec-ch-ua-mobile: ?0
+2021-07-23 15:26:24.003017 [info]: oop!unknow header: sec-ch-ua-mobile: ?0
+2021-07-23 15:26:24.003019 [info]: Upgrade-Insecure-Requests: 1
+2021-07-23 15:26:24.003021 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2021-07-23 15:26:24.003024 [info]: Origin: http://127.0.0.1:9006
+2021-07-23 15:26:24.003026 [info]: oop!unknow header: Origin: http://127.0.0.1:9006
+2021-07-23 15:26:24.003028 [info]: Content-Type: application/x-www-form-urlencoded
+2021-07-23 15:26:24.003031 [info]: oop!unknow header: Content-Type: application/x-www-form-urlencoded
+2021-07-23 15:26:24.003033 [info]: User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36
+2021-07-23 15:26:24.003035 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36
+2021-07-23 15:26:24.003038 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+2021-07-23 15:26:24.003040 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+2021-07-23 15:26:24.003042 [info]: Sec-Fetch-Site: same-origin
+2021-07-23 15:26:24.003045 [info]: oop!unknow header: Sec-Fetch-Site: same-origin
+2021-07-23 15:26:24.003047 [info]: Sec-Fetch-Mode: navigate
+2021-07-23 15:26:24.003049 [info]: oop!unknow header: Sec-Fetch-Mode: navigate
+2021-07-23 15:26:24.003051 [info]: Sec-Fetch-User: ?1
+2021-07-23 15:26:24.003053 [info]: oop!unknow header: Sec-Fetch-User: ?1
+2021-07-23 15:26:24.003056 [info]: Sec-Fetch-Dest: document
+2021-07-23 15:26:24.003058 [info]: oop!unknow header: Sec-Fetch-Dest: document
+2021-07-23 15:26:24.003060 [info]: Referer: http://127.0.0.1:9006/0
+2021-07-23 15:26:24.003062 [info]: oop!unknow header: Referer: http://127.0.0.1:9006/0
+2021-07-23 15:26:24.003065 [info]: Accept-Encoding: gzip, deflate, br
+2021-07-23 15:26:24.003067 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br
+2021-07-23 15:26:24.003069 [info]: Accept-Language: zh-CN,zh;q=0.9
+2021-07-23 15:26:24.003071 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9
+2021-07-23 15:26:24.003073 [info]: 
+2021-07-23 15:26:24.003076 [info]: user=%E9%99%88&password=czwjss
+2021-07-23 15:26:24.020062 [erro]: accept error:errno is:11
+2021-07-23 15:26:24.073841 [info]: request:HTTP/1.1 200 OK
+
+2021-07-23 15:26:24.073959 [info]: request:HTTP/1.1 200 OK
+Content-Length:908
+
+2021-07-23 15:26:24.073970 [info]: request:HTTP/1.1 200 OK
+Content-Length:908
+Connection:keep-alive
+
+2021-07-23 15:26:24.073977 [info]: request:HTTP/1.1 200 OK
+Content-Length:908
+Connection:keep-alive
+
+
+2021-07-23 15:26:24.074166 [info]: send data to the client(127.0.0.1)
+2021-07-23 15:26:24.074204 [info]: adjust timer once
+2021-07-23 15:26:26.777980 [info]: timer tick
+2021-07-23 15:26:31.778526 [info]: timer tick
+2021-07-23 15:26:36.779171 [info]: timer tick
+2021-07-23 15:26:41.780700 [info]: timer tick
+2021-07-23 15:26:46.783478 [info]: timer tick
+2021-07-23 15:26:51.786473 [info]: timer tick
+2021-07-23 15:26:56.786811 [info]: timer tick
+2021-07-23 15:27:01.788755 [info]: timer tick
+2021-07-23 15:27:06.790750 [info]: timer tick
+2021-07-23 15:27:11.791583 [info]: timer tick
+2021-07-23 15:27:31.621839 [info]: timer tick
+2021-07-23 15:27:35.379904 [erro]: accept error:errno is:11
+2021-07-23 15:27:36.622694 [info]: timer tick
+2021-07-23 15:27:41.623510 [info]: timer tick
+2021-07-23 15:27:42.034459 [info]: deal with the client(127.0.0.1)
+2021-07-23 15:27:42.034504 [info]: adjust timer once
+2021-07-23 15:27:42.034837 [info]: POST /3 HTTP/1.1
+2021-07-23 15:27:42.034869 [info]: Host: 127.0.0.1:9006
+2021-07-23 15:27:42.034874 [info]: Connection: keep-alive
+2021-07-23 15:27:42.034877 [info]: Content-Length: 30
+2021-07-23 15:27:42.034881 [info]: Cache-Control: max-age=0
+2021-07-23 15:27:42.034884 [info]: oop!unknow header: Cache-Control: max-age=0
+2021-07-23 15:27:42.034887 [info]: sec-ch-ua: "Chromium";v="92", " Not A;Brand";v="99", "Google Chrome";v="92"
+2021-07-23 15:27:42.034889 [info]: oop!unknow header: sec-ch-ua: "Chromium";v="92", " Not A;Brand";v="99", "Google Chrome";v="92"
+2021-07-23 15:27:42.034894 [info]: sec-ch-ua-mobile: ?0
+2021-07-23 15:27:42.034897 [info]: oop!unknow header: sec-ch-ua-mobile: ?0
+2021-07-23 15:27:42.034899 [info]: Upgrade-Insecure-Requests: 1
+2021-07-23 15:27:42.034902 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2021-07-23 15:27:42.034904 [info]: Origin: http://127.0.0.1:9006
+2021-07-23 15:27:42.034907 [info]: oop!unknow header: Origin: http://127.0.0.1:9006
+2021-07-23 15:27:42.034909 [info]: Content-Type: application/x-www-form-urlencoded
+2021-07-23 15:27:42.034912 [info]: oop!unknow header: Content-Type: application/x-www-form-urlencoded
+2021-07-23 15:27:42.034915 [info]: User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36
+2021-07-23 15:27:42.034917 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36
+2021-07-23 15:27:42.034920 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+2021-07-23 15:27:42.034922 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+2021-07-23 15:27:42.034925 [info]: Sec-Fetch-Site: same-origin
+2021-07-23 15:27:42.034927 [info]: oop!unknow header: Sec-Fetch-Site: same-origin
+2021-07-23 15:27:42.034930 [info]: Sec-Fetch-Mode: navigate
+2021-07-23 15:27:42.034932 [info]: oop!unknow header: Sec-Fetch-Mode: navigate
+2021-07-23 15:27:42.034934 [info]: Sec-Fetch-User: ?1
+2021-07-23 15:27:42.034937 [info]: oop!unknow header: Sec-Fetch-User: ?1
+2021-07-23 15:27:42.034939 [info]: Sec-Fetch-Dest: document
+2021-07-23 15:27:42.034942 [info]: oop!unknow header: Sec-Fetch-Dest: document
+2021-07-23 15:27:42.034944 [info]: Referer: http://127.0.0.1:9006/0
+2021-07-23 15:27:42.034947 [info]: oop!unknow header: Referer: http://127.0.0.1:9006/0
+2021-07-23 15:27:42.034949 [info]: Accept-Encoding: gzip, deflate, br
+2021-07-23 15:27:42.034952 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br
+2021-07-23 15:27:42.034954 [info]: Accept-Language: zh-CN,zh;q=0.9
+2021-07-23 15:27:42.034956 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9
+2021-07-23 15:27:42.034959 [info]: 
+2021-07-23 15:27:42.034962 [info]: user=%E9%99%88&password=czwjss
+2021-07-23 15:27:42.035028 [info]: request:HTTP/1.1 200 OK
+
+2021-07-23 15:27:42.035035 [info]: request:HTTP/1.1 200 OK
+Content-Length:966
+
+2021-07-23 15:27:42.035038 [info]: request:HTTP/1.1 200 OK
+Content-Length:966
+Connection:keep-alive
+
+2021-07-23 15:27:42.035040 [info]: request:HTTP/1.1 200 OK
+Content-Length:966
+Connection:keep-alive
+
+
+2021-07-23 15:27:42.040765 [info]: send data to the client(127.0.0.1)
+2021-07-23 15:27:42.040874 [info]: adjust timer once
+2021-07-23 15:27:46.623983 [info]: timer tick
+2021-07-23 15:27:51.624738 [info]: timer tick
+2021-07-23 15:27:56.626277 [info]: timer tick
+2021-07-23 15:28:01.629488 [info]: timer tick
+2021-07-23 15:28:06.630258 [info]: timer tick
+2021-07-23 15:28:11.631335 [info]: timer tick
+2021-07-23 15:28:16.631969 [info]: timer tick
+2021-07-23 15:28:21.634001 [info]: timer tick
+2021-07-23 15:28:26.636559 [info]: timer tick
+2021-07-23 15:28:31.636667 [info]: timer tick
+2021-07-23 15:28:36.638448 [info]: timer tick
+2021-07-23 15:28:41.639206 [info]: timer tick
+2021-07-23 15:28:46.639844 [info]: timer tick
+2021-07-23 15:28:51.640584 [info]: timer tick
+2021-07-23 15:28:56.641580 [info]: timer tick
+2021-07-23 15:29:01.644520 [info]: timer tick
+2021-07-23 15:29:06.647311 [info]: timer tick
+2021-07-23 15:29:11.647651 [info]: timer tick
+2021-07-23 15:29:16.651281 [info]: timer tick
+2021-07-23 15:29:21.652282 [info]: timer tick
+2021-07-23 15:29:26.655828 [info]: timer tick
+2021-07-23 15:29:31.656186 [info]: timer tick
+2021-07-23 15:29:36.656747 [info]: timer tick
+2021-07-23 15:29:41.659030 [info]: timer tick
+2021-07-23 15:29:46.671474 [info]: timer tick
+2021-07-23 15:29:51.686597 [info]: timer tick
+2021-07-23 15:29:56.693058 [info]: timer tick
+2021-07-23 15:30:01.693917 [info]: timer tick
+2021-07-23 15:30:06.695457 [info]: timer tick
+2021-07-23 15:30:11.697680 [info]: timer tick
+2021-07-23 15:30:16.698649 [info]: timer tick
+2021-07-23 15:30:21.701498 [info]: timer tick
+2021-07-23 15:30:26.703251 [info]: timer tick
+2021-07-23 15:30:31.706943 [info]: timer tick
+2021-07-23 15:30:36.707484 [info]: timer tick
+2021-07-23 15:30:41.707824 [info]: timer tick
+2021-07-23 15:30:46.711424 [info]: timer tick
+2021-07-23 15:30:51.712844 [info]: timer tick
+2021-07-23 15:30:56.719931 [info]: timer tick
+2021-07-23 15:31:01.723026 [info]: timer tick
+2021-07-23 15:31:06.725336 [info]: timer tick
+2021-07-23 15:31:11.729061 [info]: timer tick
+2021-07-23 15:31:16.732469 [info]: timer tick
+2021-07-23 15:31:21.733983 [info]: timer tick
+2021-07-23 15:31:26.736795 [info]: timer tick
+2021-07-23 15:31:31.736916 [info]: timer tick
+2021-07-23 15:31:36.738318 [info]: timer tick
+2021-07-23 15:31:41.740470 [info]: timer tick
+2021-07-23 15:31:46.742719 [info]: timer tick
+2021-07-23 15:31:51.745912 [info]: timer tick
+2021-07-23 15:31:56.749133 [info]: timer tick
+2021-07-23 15:32:01.751885 [info]: timer tick
+2021-07-23 15:32:06.754635 [info]: timer tick
+2021-07-23 15:32:11.755176 [info]: timer tick
+2021-07-23 15:32:16.755319 [info]: timer tick
+2021-07-23 15:32:21.759051 [info]: timer tick
+2021-07-23 15:32:26.760113 [info]: timer tick
+2021-07-23 15:32:31.760838 [info]: timer tick
+2021-07-23 15:32:36.764736 [info]: timer tick
+2021-07-23 15:32:41.767031 [info]: timer tick
+2021-07-23 15:32:46.770588 [info]: timer tick
+2021-07-23 15:32:51.771366 [info]: timer tick
+2021-07-23 15:32:56.773890 [info]: timer tick
+2021-07-23 15:33:01.776622 [info]: timer tick
+2021-07-23 15:33:06.777577 [info]: timer tick
+2021-07-23 15:33:11.779048 [info]: timer tick
+2021-07-23 15:33:16.781699 [info]: timer tick
+2021-07-23 15:33:21.788578 [info]: timer tick
+2021-07-23 15:33:26.789836 [info]: timer tick
+2021-07-23 15:33:31.790461 [info]: timer tick
+2021-07-23 15:33:36.791578 [info]: timer tick
+2021-07-23 15:33:41.792071 [info]: timer tick
+2021-07-23 15:33:46.792664 [info]: timer tick
+2021-07-23 15:33:51.793511 [info]: timer tick
+2021-07-23 15:33:56.794513 [info]: timer tick
+2021-07-23 15:34:01.795199 [info]: timer tick
+2021-07-23 15:34:06.795491 [info]: timer tick
+2021-07-23 15:34:11.797589 [info]: timer tick
+2021-07-23 15:34:16.798313 [info]: timer tick
+2021-07-23 15:34:21.798479 [info]: timer tick
+2021-07-23 15:34:26.800808 [info]: timer tick
+2021-07-23 15:34:31.801603 [info]: timer tick
+2021-07-23 15:34:36.803433 [info]: timer tick
+2021-07-23 15:34:41.805449 [info]: timer tick
+2021-07-23 15:34:46.805774 [info]: timer tick
+2021-07-23 15:34:51.806513 [info]: timer tick
+2021-07-23 15:34:56.821564 [info]: timer tick
+2021-07-23 15:35:01.822342 [info]: timer tick
+2021-07-23 15:35:06.823244 [info]: timer tick
+2021-07-23 15:35:11.824214 [info]: timer tick
+2021-07-23 15:35:16.824988 [info]: timer tick
+2021-07-23 15:35:21.825713 [info]: timer tick
+2021-07-23 15:35:26.826277 [info]: timer tick
+2021-07-23 15:35:31.826593 [info]: timer tick
+2021-07-23 15:35:36.827641 [info]: timer tick
+2021-07-23 15:35:41.827740 [info]: timer tick
+2021-07-23 15:35:46.828718 [info]: timer tick
+2021-07-23 15:35:51.829446 [info]: timer tick
+2021-07-23 15:35:56.829674 [info]: timer tick
+2021-07-23 15:36:01.830720 [info]: timer tick
+2021-07-23 15:36:06.834170 [info]: timer tick
+2021-07-23 15:36:11.836737 [info]: timer tick
+2021-07-23 15:36:16.837425 [info]: timer tick
+2021-07-23 15:36:21.838217 [info]: timer tick
+2021-07-23 15:36:26.840598 [info]: timer tick
+2021-07-23 15:36:31.841348 [info]: timer tick
+2021-07-23 15:36:36.843434 [info]: timer tick
+2021-07-23 15:36:41.845469 [info]: timer tick
+2021-07-23 15:36:46.847598 [info]: timer tick
+2021-07-23 15:36:51.849972 [info]: timer tick
+2021-07-23 15:36:56.851736 [info]: timer tick
+2021-07-23 15:37:01.853031 [info]: timer tick
+2021-07-23 15:37:06.856048 [info]: timer tick
+2021-07-23 15:37:11.857461 [info]: timer tick
+2021-07-23 15:37:16.861091 [info]: timer tick
+2021-07-23 15:37:21.864307 [info]: timer tick
+2021-07-23 15:37:26.866144 [info]: timer tick
+2021-07-23 15:37:31.866390 [info]: timer tick
+2021-07-23 15:37:36.867511 [info]: timer tick
+2021-07-23 15:37:41.869427 [info]: timer tick
+2021-07-23 15:37:46.870644 [info]: timer tick
+2021-07-23 15:37:51.871109 [info]: timer tick
+2021-07-23 15:37:56.872973 [info]: timer tick
+2021-07-23 15:38:01.874058 [info]: timer tick
+2021-07-23 15:38:06.876186 [info]: timer tick
+2021-07-23 15:38:11.878990 [info]: timer tick
+2021-07-23 15:38:16.889721 [info]: timer tick
+2021-07-23 15:38:21.889867 [info]: timer tick
+2021-07-23 15:38:26.890641 [info]: timer tick
+2021-07-23 15:38:31.891308 [info]: timer tick
+2021-07-23 15:38:36.892992 [info]: timer tick
+2021-07-23 15:38:41.896543 [info]: timer tick
+2021-07-23 15:38:46.898260 [info]: timer tick
+2021-07-23 15:38:51.900027 [info]: timer tick
+2021-07-23 15:38:56.902091 [info]: timer tick
+2021-07-23 15:39:01.902242 [info]: timer tick
+2021-07-23 15:39:06.903070 [info]: timer tick
+2021-07-23 15:39:11.903746 [info]: timer tick
+2021-07-23 15:39:16.907702 [info]: timer tick
+2021-07-23 15:39:21.908554 [info]: timer tick
+2021-07-23 15:39:26.909922 [info]: timer tick
+2021-07-23 15:39:31.924963 [info]: timer tick
+2021-07-23 15:39:36.926064 [info]: timer tick
+2021-07-23 15:39:41.927487 [info]: timer tick
+2021-07-23 15:39:46.930094 [info]: timer tick
+2021-07-23 15:39:51.933202 [info]: timer tick
+2021-07-23 15:39:56.935323 [info]: timer tick
+2021-07-23 15:40:01.937842 [info]: timer tick
+2021-07-23 15:40:06.940298 [info]: timer tick
+2021-07-23 15:40:11.941251 [info]: timer tick
+2021-07-23 15:40:16.943678 [info]: timer tick
+2021-07-23 15:40:21.943771 [info]: timer tick
+2021-07-23 15:40:26.943932 [info]: timer tick
+2021-07-23 15:40:31.946094 [info]: timer tick
+2021-07-23 15:40:36.947303 [info]: timer tick
+2021-07-23 15:40:41.950727 [info]: timer tick
+2021-07-23 15:40:46.952247 [info]: timer tick
+2021-07-23 15:40:51.952580 [info]: timer tick
+2021-07-23 15:40:56.953306 [info]: timer tick
+2021-07-23 15:41:01.967512 [info]: timer tick
+2021-07-23 15:41:06.969103 [info]: timer tick
+2021-07-23 15:41:11.969809 [info]: timer tick
+2021-07-23 15:41:16.970065 [info]: timer tick
+2021-07-23 15:41:21.970718 [info]: timer tick
+2021-07-23 15:41:26.985920 [info]: timer tick
+2021-07-23 15:41:31.986035 [info]: timer tick
+2021-07-23 15:41:36.986508 [info]: timer tick
+2021-07-23 15:41:41.986714 [info]: timer tick
+2021-07-23 15:41:46.987073 [info]: timer tick
+2021-07-23 15:41:51.987628 [info]: timer tick
+2021-07-23 15:41:56.988038 [info]: timer tick
+2021-07-23 15:42:01.988806 [info]: timer tick
+2021-07-23 15:42:06.988896 [info]: timer tick
+2021-07-23 15:42:11.989175 [info]: timer tick
+2021-07-23 15:42:16.989981 [info]: timer tick
+2021-07-23 15:42:21.990982 [info]: timer tick
+2021-07-23 15:42:26.991961 [info]: timer tick
+2021-07-23 15:42:31.992503 [info]: timer tick
+2021-07-23 15:42:36.993260 [info]: timer tick
+2021-07-23 15:42:41.994078 [info]: timer tick
+2021-07-23 15:42:46.996218 [info]: timer tick
+2021-07-23 15:42:51.996634 [info]: timer tick
+2021-07-23 15:42:56.997395 [info]: timer tick
+2021-07-23 15:43:01.997907 [info]: timer tick
+2021-07-23 15:43:06.997944 [info]: timer tick
+2021-07-23 15:43:11.998325 [info]: timer tick
+2021-07-23 15:43:16.998453 [info]: timer tick
+2021-07-23 15:43:21.999047 [info]: timer tick
+2021-07-23 15:43:26.999360 [info]: timer tick
+2021-07-23 15:43:31.999585 [info]: timer tick
+2021-07-23 15:43:36.999697 [info]: timer tick
+2021-07-23 15:43:42.000189 [info]: timer tick
+2021-07-23 15:43:47.001921 [info]: timer tick
+2021-07-23 15:43:52.002922 [info]: timer tick
+2021-07-23 15:43:57.003046 [info]: timer tick
+2021-07-23 15:44:02.003677 [info]: timer tick
+2021-07-23 15:44:07.004229 [info]: timer tick
+2021-07-23 15:44:12.004328 [info]: timer tick
+2021-07-23 15:44:17.006087 [info]: timer tick
+2021-07-23 15:44:22.006319 [info]: timer tick
+2021-07-23 15:44:27.007328 [info]: timer tick
+2021-07-23 15:44:32.009277 [info]: timer tick
+2021-07-23 15:44:37.011261 [info]: timer tick
+2021-07-23 15:44:42.012128 [info]: timer tick
+2021-07-23 15:44:47.012735 [info]: timer tick
+2021-07-23 15:44:52.013728 [info]: timer tick
+2021-07-23 15:44:57.014336 [info]: timer tick
+2021-07-23 15:45:02.015278 [info]: timer tick
+2021-07-23 15:45:07.016000 [info]: timer tick
+2021-07-23 15:45:12.020337 [info]: timer tick
+2021-07-23 15:45:17.021722 [info]: timer tick
+2021-07-23 15:45:22.022007 [info]: timer tick
+2021-07-23 15:45:27.022881 [info]: timer tick
+2021-07-23 15:45:32.023403 [info]: timer tick
+2021-07-23 15:45:37.025303 [info]: timer tick
+2021-07-23 15:45:42.026706 [info]: timer tick
+2021-07-23 15:45:47.026951 [info]: timer tick
+2021-07-23 15:45:52.028670 [info]: timer tick
+2021-07-23 15:45:57.029326 [info]: timer tick
+2021-07-23 15:46:02.031015 [info]: timer tick
+2021-07-23 15:46:07.032009 [info]: timer tick
+2021-07-23 15:46:12.032470 [info]: timer tick
+2021-07-23 15:46:17.032983 [info]: timer tick
+2021-07-23 15:46:22.033991 [info]: timer tick
+2021-07-23 15:46:27.034031 [info]: timer tick
+2021-07-23 15:46:32.035292 [info]: timer tick
+2021-07-23 15:46:37.035694 [info]: timer tick
+2021-07-23 15:46:42.036155 [info]: timer tick
+2021-07-23 15:46:47.036594 [info]: timer tick
+2021-07-23 15:46:52.036813 [info]: timer tick
+2021-07-23 15:46:57.037102 [info]: timer tick
+2021-07-23 15:47:02.037443 [info]: timer tick
+2021-07-23 15:47:07.037552 [info]: timer tick
+2021-07-23 15:47:12.038051 [info]: timer tick
+2021-07-23 15:47:17.038760 [info]: timer tick
+2021-07-23 15:47:22.039681 [info]: timer tick
+2021-07-23 15:47:27.040477 [info]: timer tick
+2021-07-23 15:47:32.041076 [info]: timer tick
+2021-07-23 15:47:37.041204 [info]: timer tick
+2021-07-23 15:47:42.042290 [info]: timer tick
+2021-07-23 15:47:47.042392 [info]: timer tick
+2021-07-23 15:47:52.042510 [info]: timer tick
+2021-07-23 15:47:57.043196 [info]: timer tick
+2021-07-23 15:48:02.043848 [info]: timer tick
+2021-07-23 15:48:07.053398 [info]: timer tick
+2021-07-23 15:48:12.053920 [info]: timer tick
+2021-07-23 15:48:17.056415 [info]: timer tick
+2021-07-23 15:48:22.059877 [info]: timer tick
+2021-07-23 15:48:27.060509 [info]: timer tick
+2021-07-23 15:48:32.064442 [info]: timer tick
+2021-07-23 15:48:37.066712 [info]: timer tick
+2021-07-23 15:48:42.069780 [info]: timer tick
+2021-07-23 15:48:47.072863 [info]: timer tick
+2021-07-23 15:48:52.073419 [info]: timer tick
+2021-07-23 15:48:57.075195 [info]: timer tick
+2021-07-23 15:49:02.075679 [info]: timer tick
+2021-07-23 15:49:07.075749 [info]: timer tick
+2021-07-23 15:49:12.076859 [info]: timer tick
+2021-07-23 15:49:17.077325 [info]: timer tick
+2021-07-23 15:49:22.078245 [info]: timer tick
+2021-07-23 15:49:27.082229 [info]: timer tick
+2021-07-23 15:49:32.082736 [info]: timer tick
+2021-07-23 15:49:37.084444 [info]: timer tick
+2021-07-23 15:49:42.085669 [info]: timer tick
+2021-07-23 15:49:47.088376 [info]: timer tick
+2021-07-23 15:49:52.088769 [info]: timer tick
+2021-07-23 15:49:57.092281 [info]: timer tick
+2021-07-23 15:50:02.096323 [info]: timer tick
+2021-07-23 15:50:07.097257 [info]: timer tick
+2021-07-23 15:50:12.098772 [info]: timer tick
+2021-07-23 15:50:17.101720 [info]: timer tick
+2021-07-23 15:50:22.104668 [info]: timer tick
+2021-07-23 15:50:27.106920 [info]: timer tick
+2021-07-23 15:50:32.109183 [info]: timer tick
+2021-07-23 15:50:37.110166 [info]: timer tick
+2021-07-23 15:50:42.110989 [info]: timer tick
+2021-07-23 15:50:47.111333 [info]: timer tick
+2021-07-23 15:50:52.112263 [info]: timer tick
+2021-07-23 15:50:57.114527 [info]: timer tick
+2021-07-23 15:51:02.116154 [info]: timer tick
+2021-07-23 15:51:07.117812 [info]: timer tick
+2021-07-23 15:51:12.120460 [info]: timer tick
+2021-07-23 15:51:17.122544 [info]: timer tick
+2021-07-23 15:51:22.123472 [info]: timer tick
+2021-07-23 15:51:27.124143 [info]: timer tick
+2021-07-23 15:51:32.124450 [info]: timer tick
+2021-07-23 15:51:37.127236 [info]: timer tick
+2021-07-23 15:51:42.129941 [info]: timer tick
+2021-07-23 15:51:47.131564 [info]: timer tick
+2021-07-23 15:51:52.134188 [info]: timer tick
+2021-07-23 15:51:57.134702 [info]: timer tick
+2021-07-23 15:52:02.137322 [info]: timer tick
+2021-07-23 15:52:07.140086 [info]: timer tick
+2021-07-23 15:52:12.140762 [info]: timer tick
+2021-07-23 15:52:17.143001 [info]: timer tick
+2021-07-23 15:52:22.143862 [info]: timer tick
+2021-07-23 15:52:27.144412 [info]: timer tick
+2021-07-23 15:52:32.144608 [info]: timer tick
+2021-07-23 15:52:37.147419 [info]: timer tick
+2021-07-23 15:52:42.149349 [info]: timer tick
+2021-07-23 15:52:47.150046 [info]: timer tick
+2021-07-23 15:52:52.152881 [info]: timer tick
+2021-07-23 15:52:57.154479 [info]: timer tick
+2021-07-23 15:53:02.154996 [info]: timer tick
+2021-07-23 15:53:07.156296 [info]: timer tick
+2021-07-23 15:53:12.159118 [info]: timer tick
+2021-07-23 15:53:17.160229 [info]: timer tick
+2021-07-23 15:53:22.163104 [info]: timer tick
+2021-07-23 15:53:27.164292 [info]: timer tick
+2021-07-23 15:53:32.164750 [info]: timer tick
+2021-07-23 15:53:37.166330 [info]: timer tick
+2021-07-23 15:53:42.168694 [info]: timer tick
+2021-07-23 15:53:47.171470 [info]: timer tick
+2021-07-23 15:53:52.174405 [info]: timer tick
+2021-07-23 15:53:57.176577 [info]: timer tick
+2021-07-23 15:54:02.179318 [info]: timer tick
+2021-07-23 15:54:07.179545 [info]: timer tick
+2021-07-23 15:54:12.180747 [info]: timer tick
+2021-07-23 15:54:17.182018 [info]: timer tick
+2021-07-23 15:54:22.184718 [info]: timer tick
+2021-07-23 15:54:27.187260 [info]: timer tick
+2021-07-23 15:54:32.189594 [info]: timer tick
+2021-07-23 15:54:37.190700 [info]: timer tick
+2021-07-23 15:54:42.193696 [info]: timer tick
+2021-07-23 15:54:47.196832 [info]: timer tick
+2021-07-23 15:54:52.201667 [info]: timer tick
+2021-07-23 15:54:57.202635 [info]: timer tick
+2021-07-23 15:55:02.202919 [info]: timer tick
+2021-07-23 15:55:07.203614 [info]: timer tick
+2021-07-23 15:55:12.204316 [info]: timer tick
+2021-07-23 15:55:17.205044 [info]: timer tick
+2021-07-23 15:55:22.205734 [info]: timer tick
+2021-07-23 15:55:27.213525 [info]: timer tick
+2021-07-23 15:55:32.214222 [info]: timer tick
+2021-07-23 15:55:37.214889 [info]: timer tick
+2021-07-23 15:55:42.214991 [info]: timer tick
+2021-07-23 15:55:47.217943 [info]: timer tick
+2021-07-23 15:55:52.218677 [info]: timer tick
+2021-07-23 15:55:57.219521 [info]: timer tick
+2021-07-23 15:56:02.220024 [info]: timer tick
+2021-07-23 15:56:07.223290 [info]: timer tick
+2021-07-23 15:56:12.224882 [info]: timer tick
+2021-07-23 15:56:17.225610 [info]: timer tick
+2021-07-23 15:56:22.226676 [info]: timer tick
+2021-07-23 15:56:27.227618 [info]: timer tick
+2021-07-23 15:56:32.228389 [info]: timer tick
+2021-07-23 15:56:37.230217 [info]: timer tick
+2021-07-23 15:56:42.230889 [info]: timer tick
+2021-07-23 15:56:47.231885 [info]: timer tick
+2021-07-23 15:56:52.232677 [info]: timer tick
+2021-07-23 15:56:57.233706 [info]: timer tick
+2021-07-23 15:57:02.235864 [info]: timer tick
+2021-07-23 15:57:07.235979 [info]: timer tick
+2021-07-23 15:57:12.237309 [info]: timer tick
+2021-07-23 15:57:17.238154 [info]: timer tick
+2021-07-23 15:57:22.238268 [info]: timer tick
+2021-07-23 15:57:27.239126 [info]: timer tick
+2021-07-23 15:57:32.241579 [info]: timer tick
+2021-07-23 15:57:37.243001 [info]: timer tick
+2021-07-23 15:57:42.244831 [info]: timer tick
+2021-07-23 15:57:47.246773 [info]: timer tick
+2021-07-23 15:57:52.246926 [info]: timer tick
+2021-07-23 15:57:57.247337 [info]: timer tick
+2021-07-23 15:58:02.247989 [info]: timer tick
+2021-07-23 15:58:07.248527 [info]: timer tick
+2021-07-23 15:58:12.248958 [info]: timer tick
+2021-07-23 15:58:17.249050 [info]: timer tick
+2021-07-23 15:58:22.249827 [info]: timer tick
+2021-07-23 15:58:27.250817 [info]: timer tick
+2021-07-23 15:58:32.251370 [info]: timer tick
+2021-07-23 15:58:37.251444 [info]: timer tick
+2021-07-23 15:58:42.252275 [info]: timer tick
+2021-07-23 15:58:47.252714 [info]: timer tick
+2021-07-23 15:58:52.253146 [info]: timer tick
+2021-07-23 15:58:57.254046 [info]: timer tick
+2021-07-23 15:59:02.255093 [info]: timer tick
+2021-07-23 15:59:07.256252 [info]: timer tick
+2021-07-23 15:59:12.264622 [info]: timer tick
+2021-07-23 15:59:17.269155 [info]: timer tick
+2021-07-23 15:59:22.269596 [info]: timer tick
+2021-07-23 15:59:27.270935 [info]: timer tick
+2021-07-23 15:59:32.271330 [info]: timer tick
+2021-07-23 15:59:37.272059 [info]: timer tick
+2021-07-23 15:59:42.273042 [info]: timer tick
+2021-07-23 15:59:47.273812 [info]: timer tick
+2021-07-23 15:59:52.274842 [info]: timer tick
+2021-07-23 15:59:57.275385 [info]: timer tick
+2021-07-23 16:00:02.276704 [info]: timer tick
+2021-07-23 16:00:07.277559 [info]: timer tick
+2021-07-23 16:00:12.277734 [info]: timer tick
+2021-07-23 16:00:17.279616 [info]: timer tick
+2021-07-23 16:00:22.280593 [info]: timer tick
+2021-07-23 16:00:27.280956 [info]: timer tick
+2021-07-23 16:00:32.281219 [info]: timer tick
+2021-07-23 16:00:37.281728 [info]: timer tick
+2021-07-23 16:00:42.283842 [info]: timer tick
+2021-07-23 16:00:47.285157 [info]: timer tick
+2021-07-23 16:00:52.286186 [info]: timer tick
+2021-07-23 16:00:57.287895 [info]: timer tick
+2021-07-23 16:01:02.290069 [info]: timer tick
+2021-07-23 16:01:07.300926 [info]: timer tick
+2021-07-23 16:01:12.303895 [info]: timer tick
+2021-07-23 16:01:33.745558 [info]: timer tick
+2021-07-23 16:01:38.746522 [info]: timer tick
+2021-07-23 16:01:42.284990 [erro]: accept error:errno is:11
+2021-07-23 16:01:42.287917 [info]: deal with the client(127.0.0.1)
+2021-07-23 16:01:42.287959 [info]: adjust timer once
+2021-07-23 16:01:42.288092 [info]: POST /3 HTTP/1.1
+2021-07-23 16:01:42.288118 [info]: Host: 127.0.0.1:9006
+2021-07-23 16:01:42.288122 [info]: Connection: keep-alive
+2021-07-23 16:01:42.288124 [info]: Content-Length: 39
+2021-07-23 16:01:42.288129 [info]: Cache-Control: max-age=0
+2021-07-23 16:01:42.288131 [info]: oop!unknow header: Cache-Control: max-age=0
+2021-07-23 16:01:42.288133 [info]: sec-ch-ua: "Chromium";v="92", " Not A;Brand";v="99", "Google Chrome";v="92"
+2021-07-23 16:01:42.288136 [info]: oop!unknow header: sec-ch-ua: "Chromium";v="92", " Not A;Brand";v="99", "Google Chrome";v="92"
+2021-07-23 16:01:42.288140 [info]: sec-ch-ua-mobile: ?0
+2021-07-23 16:01:42.288143 [info]: oop!unknow header: sec-ch-ua-mobile: ?0
+2021-07-23 16:01:42.288145 [info]: Upgrade-Insecure-Requests: 1
+2021-07-23 16:01:42.288147 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2021-07-23 16:01:42.288150 [info]: Origin: http://127.0.0.1:9006
+2021-07-23 16:01:42.288152 [info]: oop!unknow header: Origin: http://127.0.0.1:9006
+2021-07-23 16:01:42.288170 [info]: Content-Type: application/x-www-form-urlencoded
+2021-07-23 16:01:42.288174 [info]: oop!unknow header: Content-Type: application/x-www-form-urlencoded
+2021-07-23 16:01:42.288177 [info]: User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36
+2021-07-23 16:01:42.288179 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36
+2021-07-23 16:01:42.288182 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+2021-07-23 16:01:42.288184 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+2021-07-23 16:01:42.288186 [info]: Sec-Fetch-Site: same-origin
+2021-07-23 16:01:42.288188 [info]: oop!unknow header: Sec-Fetch-Site: same-origin
+2021-07-23 16:01:42.288191 [info]: Sec-Fetch-Mode: navigate
+2021-07-23 16:01:42.288193 [info]: oop!unknow header: Sec-Fetch-Mode: navigate
+2021-07-23 16:01:42.288195 [info]: Sec-Fetch-User: ?1
+2021-07-23 16:01:42.288197 [info]: oop!unknow header: Sec-Fetch-User: ?1
+2021-07-23 16:01:42.288199 [info]: Sec-Fetch-Dest: document
+2021-07-23 16:01:42.288202 [info]: oop!unknow header: Sec-Fetch-Dest: document
+2021-07-23 16:01:42.288204 [info]: Referer: http://127.0.0.1:9006/3
+2021-07-23 16:01:42.288206 [info]: oop!unknow header: Referer: http://127.0.0.1:9006/3
+2021-07-23 16:01:42.288208 [info]: Accept-Encoding: gzip, deflate, br
+2021-07-23 16:01:42.288210 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br
+2021-07-23 16:01:42.288213 [info]: Accept-Language: zh-CN,zh;q=0.9
+2021-07-23 16:01:42.288215 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9
+2021-07-23 16:01:42.288217 [info]: 
+2021-07-23 16:01:42.288219 [info]: user=%E5%91%B5%E5%91%B5&password=czwjss
+2021-07-23 16:01:42.293200 [erro]: accept error:errno is:11
+2021-07-23 16:01:42.297849 [info]: request:HTTP/1.1 200 OK
+
+2021-07-23 16:01:42.297888 [info]: request:HTTP/1.1 200 OK
+Content-Length:908
+
+2021-07-23 16:01:42.297893 [info]: request:HTTP/1.1 200 OK
+Content-Length:908
+Connection:keep-alive
+
+2021-07-23 16:01:42.297895 [info]: request:HTTP/1.1 200 OK
+Content-Length:908
+Connection:keep-alive
+
+
+2021-07-23 16:01:42.298258 [info]: send data to the client(127.0.0.1)
+2021-07-23 16:01:42.298304 [info]: adjust timer once
+2021-07-23 16:01:43.747293 [info]: timer tick
+2021-07-23 16:01:48.747587 [info]: timer tick
+2021-07-23 16:01:53.748048 [info]: timer tick
+2021-07-23 16:01:58.750401 [info]: timer tick
+2021-07-23 16:02:03.750468 [info]: timer tick
+2021-07-23 16:02:08.750973 [info]: timer tick
+2021-07-23 16:02:10.223882 [erro]: accept error:errno is:11
+2021-07-23 16:02:10.223951 [info]: deal with the client(127.0.0.1)
+2021-07-23 16:02:10.223962 [info]: adjust timer once
+2021-07-23 16:02:10.223991 [info]: POST /2 HTTP/1.1
+2021-07-23 16:02:10.224003 [info]: Host: 127.0.0.1:9006
+2021-07-23 16:02:10.224006 [info]: Connection: keep-alive
+2021-07-23 16:02:10.224009 [info]: Content-Length: 39
+2021-07-23 16:02:10.224011 [info]: Cache-Control: max-age=0
+2021-07-23 16:02:10.224014 [info]: oop!unknow header: Cache-Control: max-age=0
+2021-07-23 16:02:10.224016 [info]: sec-ch-ua: "Chromium";v="92", " Not A;Brand";v="99", "Google Chrome";v="92"
+2021-07-23 16:02:10.224019 [info]: oop!unknow header: sec-ch-ua: "Chromium";v="92", " Not A;Brand";v="99", "Google Chrome";v="92"
+2021-07-23 16:02:10.224023 [info]: sec-ch-ua-mobile: ?0
+2021-07-23 16:02:10.224025 [info]: oop!unknow header: sec-ch-ua-mobile: ?0
+2021-07-23 16:02:10.224028 [info]: Upgrade-Insecure-Requests: 1
+2021-07-23 16:02:10.224030 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2021-07-23 16:02:10.224032 [info]: Origin: http://127.0.0.1:9006
+2021-07-23 16:02:10.224034 [info]: oop!unknow header: Origin: http://127.0.0.1:9006
+2021-07-23 16:02:10.224037 [info]: Content-Type: application/x-www-form-urlencoded
+2021-07-23 16:02:10.224039 [info]: oop!unknow header: Content-Type: application/x-www-form-urlencoded
+2021-07-23 16:02:10.224041 [info]: User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36
+2021-07-23 16:02:10.224044 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36
+2021-07-23 16:02:10.224046 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+2021-07-23 16:02:10.224049 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+2021-07-23 16:02:10.224051 [info]: Sec-Fetch-Site: same-origin
+2021-07-23 16:02:10.224053 [info]: oop!unknow header: Sec-Fetch-Site: same-origin
+2021-07-23 16:02:10.224055 [info]: Sec-Fetch-Mode: navigate
+2021-07-23 16:02:10.224057 [info]: oop!unknow header: Sec-Fetch-Mode: navigate
+2021-07-23 16:02:10.224060 [info]: Sec-Fetch-User: ?1
+2021-07-23 16:02:10.224062 [info]: oop!unknow header: Sec-Fetch-User: ?1
+2021-07-23 16:02:10.224064 [info]: Sec-Fetch-Dest: document
+2021-07-23 16:02:10.224066 [info]: oop!unknow header: Sec-Fetch-Dest: document
+2021-07-23 16:02:10.224069 [info]: Referer: http://127.0.0.1:9006/3
+2021-07-23 16:02:10.224071 [info]: oop!unknow header: Referer: http://127.0.0.1:9006/3
+2021-07-23 16:02:10.224073 [info]: Accept-Encoding: gzip, deflate, br
+2021-07-23 16:02:10.224075 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br
+2021-07-23 16:02:10.224077 [info]: Accept-Language: zh-CN,zh;q=0.9
+2021-07-23 16:02:10.224080 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9
+2021-07-23 16:02:10.224082 [info]: 
+2021-07-23 16:02:10.224084 [info]: user=%E5%91%B5%E5%91%B5&password=czwjss
+2021-07-23 16:02:10.224138 [info]: request:HTTP/1.1 200 OK
+
+2021-07-23 16:02:10.224147 [info]: request:HTTP/1.1 200 OK
+Content-Length:892
+
+2021-07-23 16:02:10.224150 [info]: request:HTTP/1.1 200 OK
+Content-Length:892
+Connection:keep-alive
+
+2021-07-23 16:02:10.224152 [info]: request:HTTP/1.1 200 OK
+Content-Length:892
+Connection:keep-alive
+
+
+2021-07-23 16:02:10.229781 [info]: send data to the client(127.0.0.1)
+2021-07-23 16:02:10.229841 [info]: adjust timer once
+2021-07-23 16:02:10.229868 [erro]: accept error:errno is:11
+2021-07-23 16:02:13.753811 [info]: timer tick
+2021-07-23 16:02:18.754653 [info]: timer tick
+2021-07-23 16:02:23.755578 [info]: timer tick
+2021-07-23 16:02:28.756905 [info]: timer tick
+2021-07-23 16:02:33.759715 [info]: timer tick
+2021-07-23 16:02:38.760316 [info]: timer tick
+2021-07-23 16:02:43.761534 [info]: timer tick
+2021-07-23 16:02:48.761999 [info]: timer tick
+2021-07-23 16:02:53.762762 [info]: timer tick
+2021-07-23 16:02:58.763768 [info]: timer tick
+2021-07-23 16:03:03.767040 [info]: timer tick
+2021-07-23 16:03:08.768698 [info]: timer tick
+2021-07-23 16:03:13.770854 [info]: timer tick
+2021-07-23 16:03:18.772154 [info]: timer tick
+2021-07-23 16:03:23.774712 [info]: timer tick
+2021-07-23 16:03:28.775619 [info]: timer tick
+2021-07-23 16:03:33.778750 [info]: timer tick
+2021-07-23 16:03:38.780140 [info]: timer tick
+2021-07-23 16:03:43.782473 [info]: timer tick
+2021-07-23 16:03:48.782807 [info]: timer tick
+2021-07-23 16:03:53.784336 [info]: timer tick
+2021-07-23 16:03:58.785621 [info]: timer tick
+2021-07-23 16:04:03.786291 [info]: timer tick
+2021-07-23 16:04:08.787034 [info]: timer tick
+2021-07-23 16:04:13.787452 [info]: timer tick
+2021-07-23 16:04:18.791086 [info]: timer tick
+2021-07-23 16:04:23.791273 [info]: timer tick
+2021-07-23 16:04:28.793380 [info]: timer tick
+2021-07-23 16:04:33.794322 [info]: timer tick
+2021-07-23 16:04:38.798171 [info]: timer tick
+2021-07-23 16:04:43.798802 [info]: timer tick
+2021-07-23 16:04:48.799341 [info]: timer tick
+2021-07-23 16:04:53.800770 [info]: timer tick
+2021-07-23 16:04:58.803487 [info]: timer tick
+2021-07-23 16:05:03.804169 [info]: timer tick
+2021-07-23 16:05:08.804278 [info]: timer tick
+2021-07-23 16:05:13.804725 [info]: timer tick
+2021-07-23 16:05:18.807625 [info]: timer tick
+2021-07-23 16:05:23.807857 [info]: timer tick
+2021-07-23 16:05:28.808304 [info]: timer tick
+2021-07-23 16:05:33.808392 [info]: timer tick
+2021-07-23 16:05:38.808742 [info]: timer tick
+2021-07-23 16:05:43.810141 [info]: timer tick
+2021-07-23 16:05:48.810629 [info]: timer tick
+2021-07-23 16:05:53.811532 [info]: timer tick
+2021-07-23 16:05:58.811673 [info]: timer tick
+2021-07-23 16:06:03.811881 [info]: timer tick
+2021-07-23 16:06:08.811933 [info]: timer tick
+2021-07-23 16:06:13.822667 [info]: timer tick
+2021-07-23 16:06:30.973247 [info]: timer tick
+2021-07-23 16:06:35.973944 [info]: timer tick
+2021-07-23 16:06:36.735294 [erro]: accept error:errno is:11
+2021-07-23 16:06:36.735389 [info]: deal with the client(127.0.0.1)
+2021-07-23 16:06:36.735412 [info]: adjust timer once
+2021-07-23 16:06:36.736126 [info]: GET /1 HTTP/1.1
+2021-07-23 16:06:36.736160 [info]: Host: 127.0.0.1:9006
+2021-07-23 16:06:36.736165 [info]: Connection: keep-alive
+2021-07-23 16:06:36.736167 [info]: sec-ch-ua: "Chromium";v="92", " Not A;Brand";v="99", "Google Chrome";v="92"
+2021-07-23 16:06:36.736170 [info]: oop!unknow header: sec-ch-ua: "Chromium";v="92", " Not A;Brand";v="99", "Google Chrome";v="92"
+2021-07-23 16:06:36.736172 [info]: sec-ch-ua-mobile: ?0
+2021-07-23 16:06:36.736175 [info]: oop!unknow header: sec-ch-ua-mobile: ?0
+2021-07-23 16:06:36.736177 [info]: Upgrade-Insecure-Requests: 1
+2021-07-23 16:06:36.736182 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2021-07-23 16:06:36.736185 [info]: User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36
+2021-07-23 16:06:36.736188 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36
+2021-07-23 16:06:36.736191 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+2021-07-23 16:06:36.736193 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+2021-07-23 16:06:36.736195 [info]: Sec-Fetch-Site: none
+2021-07-23 16:06:36.736198 [info]: oop!unknow header: Sec-Fetch-Site: none
+2021-07-23 16:06:36.736200 [info]: Sec-Fetch-Mode: navigate
+2021-07-23 16:06:36.736203 [info]: oop!unknow header: Sec-Fetch-Mode: navigate
+2021-07-23 16:06:36.736205 [info]: Sec-Fetch-User: ?1
+2021-07-23 16:06:36.736208 [info]: oop!unknow header: Sec-Fetch-User: ?1
+2021-07-23 16:06:36.736210 [info]: Sec-Fetch-Dest: document
+2021-07-23 16:06:36.736213 [info]: oop!unknow header: Sec-Fetch-Dest: document
+2021-07-23 16:06:36.736215 [info]: Accept-Encoding: gzip, deflate, br
+2021-07-23 16:06:36.736218 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br
+2021-07-23 16:06:36.736220 [info]: Accept-Language: zh-CN,zh;q=0.9
+2021-07-23 16:06:36.736223 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9
+2021-07-23 16:06:36.736225 [info]: 
+2021-07-23 16:06:36.736252 [info]: request:HTTP/1.1 200 OK
+
+2021-07-23 16:06:36.736257 [info]: request:HTTP/1.1 200 OK
+Content-Length:908
+
+2021-07-23 16:06:36.736260 [info]: request:HTTP/1.1 200 OK
+Content-Length:908
+Connection:keep-alive
+
+2021-07-23 16:06:36.736262 [info]: request:HTTP/1.1 200 OK
+Content-Length:908
+Connection:keep-alive
+
+
+2021-07-23 16:06:36.736568 [info]: send data to the client(127.0.0.1)
+2021-07-23 16:06:36.736604 [info]: adjust timer once
+2021-07-23 16:06:36.754006 [erro]: accept error:errno is:11
+2021-07-23 16:06:40.974487 [info]: timer tick
+2021-07-23 16:06:42.033434 [info]: deal with the client(127.0.0.1)
+2021-07-23 16:06:42.033506 [info]: adjust timer once
+2021-07-23 16:06:42.035242 [info]: GET / HTTP/1.1
+2021-07-23 16:06:42.035355 [info]: Host: 127.0.0.1:9006
+2021-07-23 16:06:42.035365 [info]: Connection: keep-alive
+2021-07-23 16:06:42.035368 [info]: sec-ch-ua: "Chromium";v="92", " Not A;Brand";v="99", "Google Chrome";v="92"
+2021-07-23 16:06:42.035371 [info]: oop!unknow header: sec-ch-ua: "Chromium";v="92", " Not A;Brand";v="99", "Google Chrome";v="92"
+2021-07-23 16:06:42.035373 [info]: sec-ch-ua-mobile: ?0
+2021-07-23 16:06:42.035375 [info]: oop!unknow header: sec-ch-ua-mobile: ?0
+2021-07-23 16:06:42.035378 [info]: Upgrade-Insecure-Requests: 1
+2021-07-23 16:06:42.035383 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2021-07-23 16:06:42.035386 [info]: User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36
+2021-07-23 16:06:42.035388 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36
+2021-07-23 16:06:42.035391 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+2021-07-23 16:06:42.035393 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+2021-07-23 16:06:42.035395 [info]: Sec-Fetch-Site: none
+2021-07-23 16:06:42.035397 [info]: oop!unknow header: Sec-Fetch-Site: none
+2021-07-23 16:06:42.035399 [info]: Sec-Fetch-Mode: navigate
+2021-07-23 16:06:42.035402 [info]: oop!unknow header: Sec-Fetch-Mode: navigate
+2021-07-23 16:06:42.035404 [info]: Sec-Fetch-User: ?1
+2021-07-23 16:06:42.035406 [info]: oop!unknow header: Sec-Fetch-User: ?1
+2021-07-23 16:06:42.035408 [info]: Sec-Fetch-Dest: document
+2021-07-23 16:06:42.035410 [info]: oop!unknow header: Sec-Fetch-Dest: document
+2021-07-23 16:06:42.035413 [info]: Accept-Encoding: gzip, deflate, br
+2021-07-23 16:06:42.035415 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br
+2021-07-23 16:06:42.035417 [info]: Accept-Language: zh-CN,zh;q=0.9
+2021-07-23 16:06:42.035419 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9
+2021-07-23 16:06:42.035421 [info]: 
+2021-07-23 16:06:42.035446 [info]: request:HTTP/1.1 200 OK
+
+2021-07-23 16:06:42.035451 [info]: request:HTTP/1.1 200 OK
+Content-Length:781
+
+2021-07-23 16:06:42.035454 [info]: request:HTTP/1.1 200 OK
+Content-Length:781
+Connection:keep-alive
+
+2021-07-23 16:06:42.035457 [info]: request:HTTP/1.1 200 OK
+Content-Length:781
+Connection:keep-alive
+
+
+2021-07-23 16:06:42.037346 [info]: send data to the client(127.0.0.1)
+2021-07-23 16:06:42.037386 [info]: adjust timer once
+2021-07-23 16:06:43.765383 [info]: deal with the client(127.0.0.1)
+2021-07-23 16:06:43.765466 [info]: adjust timer once
+2021-07-23 16:06:43.765560 [info]: POST /0 HTTP/1.1
+2021-07-23 16:06:43.765574 [info]: Host: 127.0.0.1:9006
+2021-07-23 16:06:43.765578 [info]: Connection: keep-alive
+2021-07-23 16:06:43.765581 [info]: Content-Length: 0
+2021-07-23 16:06:43.765588 [info]: Cache-Control: max-age=0
+2021-07-23 16:06:43.765591 [info]: oop!unknow header: Cache-Control: max-age=0
+2021-07-23 16:06:43.765594 [info]: sec-ch-ua: "Chromium";v="92", " Not A;Brand";v="99", "Google Chrome";v="92"
+2021-07-23 16:06:43.765596 [info]: oop!unknow header: sec-ch-ua: "Chromium";v="92", " Not A;Brand";v="99", "Google Chrome";v="92"
+2021-07-23 16:06:43.765600 [info]: sec-ch-ua-mobile: ?0
+2021-07-23 16:06:43.765603 [info]: oop!unknow header: sec-ch-ua-mobile: ?0
+2021-07-23 16:06:43.765605 [info]: Upgrade-Insecure-Requests: 1
+2021-07-23 16:06:43.765608 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2021-07-23 16:06:43.765610 [info]: Origin: http://127.0.0.1:9006
+2021-07-23 16:06:43.765612 [info]: oop!unknow header: Origin: http://127.0.0.1:9006
+2021-07-23 16:06:43.765615 [info]: Content-Type: application/x-www-form-urlencoded
+2021-07-23 16:06:43.765617 [info]: oop!unknow header: Content-Type: application/x-www-form-urlencoded
+2021-07-23 16:06:43.765620 [info]: User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36
+2021-07-23 16:06:43.765622 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36
+2021-07-23 16:06:43.765624 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+2021-07-23 16:06:43.765627 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+2021-07-23 16:06:43.765629 [info]: Sec-Fetch-Site: same-origin
+2021-07-23 16:06:43.765631 [info]: oop!unknow header: Sec-Fetch-Site: same-origin
+2021-07-23 16:06:43.765634 [info]: Sec-Fetch-Mode: navigate
+2021-07-23 16:06:43.765636 [info]: oop!unknow header: Sec-Fetch-Mode: navigate
+2021-07-23 16:06:43.765638 [info]: Sec-Fetch-User: ?1
+2021-07-23 16:06:43.765640 [info]: oop!unknow header: Sec-Fetch-User: ?1
+2021-07-23 16:06:43.765643 [info]: Sec-Fetch-Dest: document
+2021-07-23 16:06:43.765645 [info]: oop!unknow header: Sec-Fetch-Dest: document
+2021-07-23 16:06:43.765647 [info]: Referer: http://127.0.0.1:9006/
+2021-07-23 16:06:43.765649 [info]: oop!unknow header: Referer: http://127.0.0.1:9006/
+2021-07-23 16:06:43.765652 [info]: Accept-Encoding: gzip, deflate, br
+2021-07-23 16:06:43.765654 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br
+2021-07-23 16:06:43.765656 [info]: Accept-Language: zh-CN,zh;q=0.9
+2021-07-23 16:06:43.765659 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9
+2021-07-23 16:06:43.765661 [info]: 
+2021-07-23 16:06:43.765685 [info]: request:HTTP/1.1 200 OK
+
+2021-07-23 16:06:43.765691 [info]: request:HTTP/1.1 200 OK
+Content-Length:906
+
+2021-07-23 16:06:43.765693 [info]: request:HTTP/1.1 200 OK
+Content-Length:906
+Connection:keep-alive
+
+2021-07-23 16:06:43.765696 [info]: request:HTTP/1.1 200 OK
+Content-Length:906
+Connection:keep-alive
+
+
+2021-07-23 16:06:43.766274 [info]: send data to the client(127.0.0.1)
+2021-07-23 16:06:43.766332 [info]: adjust timer once
+2021-07-23 16:06:45.975048 [info]: timer tick
+2021-07-23 16:06:50.975625 [info]: timer tick
+2021-07-23 16:06:52.386820 [info]: deal with the client(127.0.0.1)
+2021-07-23 16:06:52.386887 [info]: adjust timer once
+2021-07-23 16:06:52.386957 [info]: POST /3 HTTP/1.1
+2021-07-23 16:06:52.386981 [info]: Host: 127.0.0.1:9006
+2021-07-23 16:06:52.386986 [info]: Connection: keep-alive
+2021-07-23 16:06:52.386988 [info]: Content-Length: 30
+2021-07-23 16:06:52.386991 [info]: Cache-Control: max-age=0
+2021-07-23 16:06:52.387030 [info]: oop!unknow header: Cache-Control: max-age=0
+2021-07-23 16:06:52.387034 [info]: sec-ch-ua: "Chromium";v="92", " Not A;Brand";v="99", "Google Chrome";v="92"
+2021-07-23 16:06:52.387037 [info]: oop!unknow header: sec-ch-ua: "Chromium";v="92", " Not A;Brand";v="99", "Google Chrome";v="92"
+2021-07-23 16:06:52.387042 [info]: sec-ch-ua-mobile: ?0
+2021-07-23 16:06:52.387045 [info]: oop!unknow header: sec-ch-ua-mobile: ?0
+2021-07-23 16:06:52.387047 [info]: Upgrade-Insecure-Requests: 1
+2021-07-23 16:06:52.387050 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2021-07-23 16:06:52.387052 [info]: Origin: http://127.0.0.1:9006
+2021-07-23 16:06:52.387054 [info]: oop!unknow header: Origin: http://127.0.0.1:9006
+2021-07-23 16:06:52.387057 [info]: Content-Type: application/x-www-form-urlencoded
+2021-07-23 16:06:52.387059 [info]: oop!unknow header: Content-Type: application/x-www-form-urlencoded
+2021-07-23 16:06:52.387062 [info]: User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36
+2021-07-23 16:06:52.387064 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36
+2021-07-23 16:06:52.387067 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+2021-07-23 16:06:52.387069 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+2021-07-23 16:06:52.387071 [info]: Sec-Fetch-Site: same-origin
+2021-07-23 16:06:52.387075 [info]: oop!unknow header: Sec-Fetch-Site: same-origin
+2021-07-23 16:06:52.387079 [info]: Sec-Fetch-Mode: navigate
+2021-07-23 16:06:52.387083 [info]: oop!unknow header: Sec-Fetch-Mode: navigate
+2021-07-23 16:06:52.387110 [info]: Sec-Fetch-User: ?1
+2021-07-23 16:06:52.387119 [info]: oop!unknow header: Sec-Fetch-User: ?1
+2021-07-23 16:06:52.387123 [info]: Sec-Fetch-Dest: document
+2021-07-23 16:06:52.387128 [info]: oop!unknow header: Sec-Fetch-Dest: document
+2021-07-23 16:06:52.387135 [info]: Referer: http://127.0.0.1:9006/0
+2021-07-23 16:06:52.387140 [info]: oop!unknow header: Referer: http://127.0.0.1:9006/0
+2021-07-23 16:06:52.387143 [info]: Accept-Encoding: gzip, deflate, br
+2021-07-23 16:06:52.387145 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br
+2021-07-23 16:06:52.387148 [info]: Accept-Language: zh-CN,zh;q=0.9
+2021-07-23 16:06:52.387150 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9
+2021-07-23 16:06:52.387152 [info]: 
+2021-07-23 16:06:52.387154 [info]: user=%E7%9A%AE&password=czwjss
+2021-07-23 16:06:52.390367 [info]: request:HTTP/1.1 200 OK
+
+2021-07-23 16:06:52.390416 [info]: request:HTTP/1.1 200 OK
+Content-Length:908
+
+2021-07-23 16:06:52.390421 [info]: request:HTTP/1.1 200 OK
+Content-Length:908
+Connection:keep-alive
+
+2021-07-23 16:06:52.390462 [info]: request:HTTP/1.1 200 OK
+Content-Length:908
+Connection:keep-alive
+
+
+2021-07-23 16:06:52.390547 [info]: send data to the client(127.0.0.1)
+2021-07-23 16:06:52.390555 [info]: adjust timer once
+2021-07-23 16:06:55.979578 [info]: timer tick
+2021-07-23 16:07:00.979845 [info]: timer tick
+2021-07-23 16:07:05.979917 [info]: timer tick
+2021-07-23 16:07:10.981068 [info]: timer tick
+2021-07-23 16:07:15.981881 [info]: timer tick
+2021-07-23 16:07:20.982849 [info]: timer tick
+2021-07-23 16:07:25.983280 [info]: timer tick
+2021-07-23 16:07:30.983431 [info]: timer tick
+2021-07-23 16:07:35.983508 [info]: timer tick
+2021-07-23 16:07:40.983573 [info]: timer tick
+2021-07-23 16:07:45.984184 [info]: timer tick
+2021-07-23 16:07:50.984909 [info]: timer tick
+2021-07-23 16:07:53.286510 [erro]: accept error:errno is:11
+2021-07-23 16:07:53.286560 [info]: deal with the client(127.0.0.1)
+2021-07-23 16:07:53.286568 [info]: adjust timer once
+2021-07-23 16:07:53.286837 [info]: POST /2 HTTP/1.1
+2021-07-23 16:07:53.286859 [info]: Host: 127.0.0.1:9006
+2021-07-23 16:07:53.286863 [info]: Connection: keep-alive
+2021-07-23 16:07:53.286865 [info]: Content-Length: 30
+2021-07-23 16:07:53.286868 [info]: Cache-Control: max-age=0
+2021-07-23 16:07:53.286871 [info]: oop!unknow header: Cache-Control: max-age=0
+2021-07-23 16:07:53.286873 [info]: sec-ch-ua: "Chromium";v="92", " Not A;Brand";v="99", "Google Chrome";v="92"
+2021-07-23 16:07:53.286876 [info]: oop!unknow header: sec-ch-ua: "Chromium";v="92", " Not A;Brand";v="99", "Google Chrome";v="92"
+2021-07-23 16:07:53.286880 [info]: sec-ch-ua-mobile: ?0
+2021-07-23 16:07:53.286883 [info]: oop!unknow header: sec-ch-ua-mobile: ?0
+2021-07-23 16:07:53.286885 [info]: Upgrade-Insecure-Requests: 1
+2021-07-23 16:07:53.286887 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2021-07-23 16:07:53.286890 [info]: Origin: http://127.0.0.1:9006
+2021-07-23 16:07:53.286892 [info]: oop!unknow header: Origin: http://127.0.0.1:9006
+2021-07-23 16:07:53.286894 [info]: Content-Type: application/x-www-form-urlencoded
+2021-07-23 16:07:53.286896 [info]: oop!unknow header: Content-Type: application/x-www-form-urlencoded
+2021-07-23 16:07:53.286899 [info]: User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36
+2021-07-23 16:07:53.286901 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36
+2021-07-23 16:07:53.286904 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+2021-07-23 16:07:53.286906 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+2021-07-23 16:07:53.286909 [info]: Sec-Fetch-Site: same-origin
+2021-07-23 16:07:53.286911 [info]: oop!unknow header: Sec-Fetch-Site: same-origin
+2021-07-23 16:07:53.286913 [info]: Sec-Fetch-Mode: navigate
+2021-07-23 16:07:53.286915 [info]: oop!unknow header: Sec-Fetch-Mode: navigate
+2021-07-23 16:07:53.286918 [info]: Sec-Fetch-User: ?1
+2021-07-23 16:07:53.286920 [info]: oop!unknow header: Sec-Fetch-User: ?1
+2021-07-23 16:07:53.286922 [info]: Sec-Fetch-Dest: document
+2021-07-23 16:07:53.286924 [info]: oop!unknow header: Sec-Fetch-Dest: document
+2021-07-23 16:07:53.286927 [info]: Referer: http://127.0.0.1:9006/3
+2021-07-23 16:07:53.286929 [info]: oop!unknow header: Referer: http://127.0.0.1:9006/3
+2021-07-23 16:07:53.286931 [info]: Accept-Encoding: gzip, deflate, br
+2021-07-23 16:07:53.286933 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br
+2021-07-23 16:07:53.286936 [info]: Accept-Language: zh-CN,zh;q=0.9
+2021-07-23 16:07:53.286938 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9
+2021-07-23 16:07:53.286940 [info]: 
+2021-07-23 16:07:53.286942 [info]: user=%E7%9A%AE&password=czwjss
+2021-07-23 16:07:53.287020 [info]: request:HTTP/1.1 200 OK
+
+2021-07-23 16:07:53.287030 [info]: request:HTTP/1.1 200 OK
+Content-Length:892
+
+2021-07-23 16:07:53.287033 [info]: request:HTTP/1.1 200 OK
+Content-Length:892
+Connection:keep-alive
+
+2021-07-23 16:07:53.287036 [info]: request:HTTP/1.1 200 OK
+Content-Length:892
+Connection:keep-alive
+
+
+2021-07-23 16:07:53.287461 [info]: send data to the client(127.0.0.1)
+2021-07-23 16:07:53.287491 [info]: adjust timer once
+2021-07-23 16:07:53.290124 [erro]: accept error:errno is:11
+2021-07-23 16:07:55.985005 [info]: timer tick
+2021-07-23 16:08:00.985234 [info]: timer tick
+2021-07-23 16:08:05.987864 [info]: timer tick
+2021-07-23 16:08:10.989187 [info]: timer tick
+2021-07-23 16:08:15.990519 [info]: timer tick
+2021-07-23 16:08:20.990924 [info]: timer tick
+2021-07-23 16:08:25.991640 [info]: timer tick
+2021-07-23 16:08:30.992564 [info]: timer tick
+2021-07-23 16:08:35.993579 [info]: timer tick
+2021-07-23 16:08:40.994054 [info]: timer tick
+2021-07-23 16:08:45.994128 [info]: timer tick
+2021-07-23 16:08:50.994293 [info]: timer tick
+2021-07-23 16:08:55.995369 [info]: timer tick
+2021-07-23 16:09:00.995760 [info]: timer tick
+2021-07-23 16:09:05.999737 [info]: timer tick
+2021-07-23 16:09:10.999960 [info]: timer tick
+2021-07-23 16:09:16.000560 [info]: timer tick
+2021-07-23 16:09:21.001320 [info]: timer tick
+2021-07-23 16:09:26.002254 [info]: timer tick
+2021-07-23 16:09:31.002937 [info]: timer tick
+2021-07-23 16:09:36.005768 [info]: timer tick
+2021-07-23 16:09:41.007986 [info]: timer tick
+2021-07-23 16:09:46.008240 [info]: timer tick
+2021-07-23 16:09:51.011417 [info]: timer tick
+2021-07-23 16:09:56.015331 [info]: timer tick
+2021-07-23 16:10:01.016526 [info]: timer tick
+2021-07-23 16:10:06.016872 [info]: timer tick
+2021-07-23 16:10:11.019135 [info]: timer tick
+2021-07-23 16:10:16.022090 [info]: timer tick
+2021-07-23 16:10:21.022223 [info]: timer tick
+2021-07-23 16:10:26.024154 [info]: timer tick
+2021-07-23 16:10:31.025507 [info]: timer tick
+2021-07-23 16:10:36.028472 [info]: timer tick
+2021-07-23 16:10:41.028754 [info]: timer tick
+2021-07-23 16:10:46.029969 [info]: timer tick
+2021-07-23 16:10:51.031440 [info]: timer tick
+2021-07-23 16:10:56.031989 [info]: timer tick
+2021-07-23 16:11:01.032746 [info]: timer tick
+2021-07-23 16:11:06.034062 [info]: timer tick
+2021-07-23 16:11:11.035836 [info]: timer tick
+2021-07-23 16:11:16.039158 [info]: timer tick
+2021-07-23 16:11:21.039947 [info]: timer tick
+2021-07-23 16:11:26.043155 [info]: timer tick
+2021-07-23 16:11:31.046355 [info]: timer tick
+2021-07-23 16:11:36.048261 [info]: timer tick
+2021-07-23 16:11:41.051180 [info]: timer tick
+2021-07-23 16:11:46.053024 [info]: timer tick
+2021-07-23 16:11:51.056128 [info]: timer tick
+2021-07-23 16:11:56.058834 [info]: timer tick
+2021-07-23 16:12:01.060406 [info]: timer tick
+2021-07-23 16:12:06.062123 [info]: timer tick
+2021-07-23 16:12:11.063061 [info]: timer tick
+2021-07-23 16:12:16.063573 [info]: timer tick
+2021-07-23 16:12:21.065325 [info]: timer tick
+2021-07-23 16:12:26.065931 [info]: timer tick
+2021-07-23 16:12:31.066988 [info]: timer tick
+2021-07-23 16:12:36.069475 [info]: timer tick
+2021-07-23 16:12:41.070439 [info]: timer tick
+2021-07-23 16:12:46.070655 [info]: timer tick
+2021-07-23 16:12:51.071774 [info]: timer tick
+2021-07-23 16:12:56.073107 [info]: timer tick
+2021-07-23 16:13:01.073421 [info]: timer tick
+2021-07-23 16:13:06.076397 [info]: timer tick
+2021-07-23 16:13:11.079162 [info]: timer tick
+2021-07-23 16:13:16.081637 [info]: timer tick
+2021-07-23 16:13:21.084090 [info]: timer tick
+2021-07-23 16:13:26.086301 [info]: timer tick
+2021-07-23 16:13:31.086669 [info]: timer tick
+2021-07-23 16:13:36.087576 [info]: timer tick
+2021-07-23 16:13:41.088521 [info]: timer tick
+2021-07-23 16:13:46.088999 [info]: timer tick
+2021-07-23 16:13:51.091771 [info]: timer tick
+2021-07-23 16:13:56.092292 [info]: timer tick
+2021-07-23 16:14:01.092897 [info]: timer tick
+2021-07-23 16:14:06.093574 [info]: timer tick
+2021-07-23 16:14:11.096268 [info]: timer tick
+2021-07-23 16:14:16.097208 [info]: timer tick
+2021-07-23 16:14:21.097798 [info]: timer tick
+2021-07-23 16:14:26.101020 [info]: timer tick
+2021-07-23 16:14:31.101111 [info]: timer tick
+2021-07-23 16:14:36.102380 [info]: timer tick
+2021-07-23 16:14:41.103249 [info]: timer tick
+2021-07-23 16:14:46.106336 [info]: timer tick
+2021-07-23 16:14:51.108748 [info]: timer tick
+2021-07-23 16:14:56.116660 [info]: timer tick
+2021-07-23 16:15:01.119020 [info]: timer tick
+2021-07-23 16:15:06.121761 [info]: timer tick
+2021-07-23 16:15:11.124210 [info]: timer tick
+2021-07-23 16:15:16.124954 [info]: timer tick
+2021-07-23 16:15:21.125250 [info]: timer tick
+2021-07-23 16:15:26.125550 [info]: timer tick
+2021-07-23 16:15:31.127137 [info]: timer tick
+2021-07-23 16:15:36.127643 [info]: timer tick
+2021-07-23 16:15:41.129309 [info]: timer tick
+2021-07-23 16:15:46.130543 [info]: timer tick
+2021-07-23 16:15:51.131367 [info]: timer tick
+2021-07-23 16:15:56.132052 [info]: timer tick
+2021-07-23 16:16:01.133141 [info]: timer tick
+2021-07-23 16:16:06.133863 [info]: timer tick
+2021-07-23 16:16:11.139490 [info]: timer tick
+2021-07-23 16:16:32.040855 [info]: timer tick
+2021-07-23 16:16:36.748613 [erro]: accept error:errno is:11
+2021-07-23 16:16:36.749970 [info]: deal with the client(127.0.0.1)
+2021-07-23 16:16:36.749999 [info]: adjust timer once
+2021-07-23 16:16:36.750515 [info]: GET / HTTP/1.1
+2021-07-23 16:16:36.750559 [info]: Host: 127.0.0.1:9006
+2021-07-23 16:16:36.750564 [info]: Connection: keep-alive
+2021-07-23 16:16:36.750567 [info]: sec-ch-ua: "Chromium";v="92", " Not A;Brand";v="99", "Google Chrome";v="92"
+2021-07-23 16:16:36.750570 [info]: oop!unknow header: sec-ch-ua: "Chromium";v="92", " Not A;Brand";v="99", "Google Chrome";v="92"
+2021-07-23 16:16:36.750573 [info]: sec-ch-ua-mobile: ?0
+2021-07-23 16:16:36.750575 [info]: oop!unknow header: sec-ch-ua-mobile: ?0
+2021-07-23 16:16:36.750577 [info]: Upgrade-Insecure-Requests: 1
+2021-07-23 16:16:36.750582 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2021-07-23 16:16:36.750585 [info]: User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36
+2021-07-23 16:16:36.750587 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36
+2021-07-23 16:16:36.750590 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+2021-07-23 16:16:36.750592 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+2021-07-23 16:16:36.750595 [info]: Sec-Fetch-Site: none
+2021-07-23 16:16:36.750597 [info]: oop!unknow header: Sec-Fetch-Site: none
+2021-07-23 16:16:36.750599 [info]: Sec-Fetch-Mode: navigate
+2021-07-23 16:16:36.750601 [info]: oop!unknow header: Sec-Fetch-Mode: navigate
+2021-07-23 16:16:36.750604 [info]: Sec-Fetch-User: ?1
+2021-07-23 16:16:36.750606 [info]: oop!unknow header: Sec-Fetch-User: ?1
+2021-07-23 16:16:36.750608 [info]: Sec-Fetch-Dest: document
+2021-07-23 16:16:36.750611 [info]: oop!unknow header: Sec-Fetch-Dest: document
+2021-07-23 16:16:36.750613 [info]: Accept-Encoding: gzip, deflate, br
+2021-07-23 16:16:36.750615 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br
+2021-07-23 16:16:36.750617 [info]: Accept-Language: zh-CN,zh;q=0.9
+2021-07-23 16:16:36.750620 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9
+2021-07-23 16:16:36.750622 [info]: 
+2021-07-23 16:16:36.750653 [info]: request:HTTP/1.1 200 OK
+
+2021-07-23 16:16:36.750659 [info]: request:HTTP/1.1 200 OK
+Content-Length:781
+
+2021-07-23 16:16:36.750662 [info]: request:HTTP/1.1 200 OK
+Content-Length:781
+Connection:keep-alive
+
+2021-07-23 16:16:36.750664 [info]: request:HTTP/1.1 200 OK
+Content-Length:781
+Connection:keep-alive
+
+
+2021-07-23 16:16:36.752447 [info]: send data to the client(127.0.0.1)
+2021-07-23 16:16:36.752523 [info]: adjust timer once
+2021-07-23 16:16:36.778689 [erro]: accept error:errno is:11
+2021-07-23 16:16:37.041293 [info]: timer tick
+2021-07-23 16:16:37.923168 [info]: deal with the client(127.0.0.1)
+2021-07-23 16:16:37.923245 [info]: adjust timer once
+2021-07-23 16:16:37.924072 [info]: POST /0 HTTP/1.1
+2021-07-23 16:16:37.924128 [info]: Host: 127.0.0.1:9006
+2021-07-23 16:16:37.924137 [info]: Connection: keep-alive
+2021-07-23 16:16:37.924140 [info]: Content-Length: 0
+2021-07-23 16:16:37.924147 [info]: Cache-Control: max-age=0
+2021-07-23 16:16:37.924150 [info]: oop!unknow header: Cache-Control: max-age=0
+2021-07-23 16:16:37.924153 [info]: sec-ch-ua: "Chromium";v="92", " Not A;Brand";v="99", "Google Chrome";v="92"
+2021-07-23 16:16:37.924155 [info]: oop!unknow header: sec-ch-ua: "Chromium";v="92", " Not A;Brand";v="99", "Google Chrome";v="92"
+2021-07-23 16:16:37.924161 [info]: sec-ch-ua-mobile: ?0
+2021-07-23 16:16:37.924164 [info]: oop!unknow header: sec-ch-ua-mobile: ?0
+2021-07-23 16:16:37.924166 [info]: Upgrade-Insecure-Requests: 1
+2021-07-23 16:16:37.924168 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2021-07-23 16:16:37.924171 [info]: Origin: http://127.0.0.1:9006
+2021-07-23 16:16:37.924173 [info]: oop!unknow header: Origin: http://127.0.0.1:9006
+2021-07-23 16:16:37.924175 [info]: Content-Type: application/x-www-form-urlencoded
+2021-07-23 16:16:37.924178 [info]: oop!unknow header: Content-Type: application/x-www-form-urlencoded
+2021-07-23 16:16:37.924180 [info]: User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36
+2021-07-23 16:16:37.924182 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36
+2021-07-23 16:16:37.924185 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+2021-07-23 16:16:37.924187 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+2021-07-23 16:16:37.924190 [info]: Sec-Fetch-Site: same-origin
+2021-07-23 16:16:37.924192 [info]: oop!unknow header: Sec-Fetch-Site: same-origin
+2021-07-23 16:16:37.924194 [info]: Sec-Fetch-Mode: navigate
+2021-07-23 16:16:37.924197 [info]: oop!unknow header: Sec-Fetch-Mode: navigate
+2021-07-23 16:16:37.924199 [info]: Sec-Fetch-User: ?1
+2021-07-23 16:16:37.924201 [info]: oop!unknow header: Sec-Fetch-User: ?1
+2021-07-23 16:16:37.924203 [info]: Sec-Fetch-Dest: document
+2021-07-23 16:16:37.924206 [info]: oop!unknow header: Sec-Fetch-Dest: document
+2021-07-23 16:16:37.924208 [info]: Referer: http://127.0.0.1:9006/
+2021-07-23 16:16:37.924210 [info]: oop!unknow header: Referer: http://127.0.0.1:9006/
+2021-07-23 16:16:37.924212 [info]: Accept-Encoding: gzip, deflate, br
+2021-07-23 16:16:37.924215 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br
+2021-07-23 16:16:37.924217 [info]: Accept-Language: zh-CN,zh;q=0.9
+2021-07-23 16:16:37.924219 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9
+2021-07-23 16:16:37.924221 [info]: 
+2021-07-23 16:16:37.924249 [info]: request:HTTP/1.1 200 OK
+
+2021-07-23 16:16:37.924255 [info]: request:HTTP/1.1 200 OK
+Content-Length:906
+
+2021-07-23 16:16:37.924257 [info]: request:HTTP/1.1 200 OK
+Content-Length:906
+Connection:keep-alive
+
+2021-07-23 16:16:37.924260 [info]: request:HTTP/1.1 200 OK
+Content-Length:906
+Connection:keep-alive
+
+
+2021-07-23 16:16:37.924646 [info]: send data to the client(127.0.0.1)
+2021-07-23 16:16:37.924674 [info]: adjust timer once
+2021-07-23 16:16:42.041590 [info]: timer tick
+2021-07-23 16:16:44.507075 [info]: deal with the client(127.0.0.1)
+2021-07-23 16:16:44.507194 [info]: adjust timer once
+2021-07-23 16:16:44.508623 [info]: POST /3 HTTP/1.1
+2021-07-23 16:16:44.508666 [info]: Host: 127.0.0.1:9006
+2021-07-23 16:16:44.508674 [info]: Connection: keep-alive
+2021-07-23 16:16:44.508677 [info]: Content-Length: 30
+2021-07-23 16:16:44.508680 [info]: Cache-Control: max-age=0
+2021-07-23 16:16:44.508682 [info]: oop!unknow header: Cache-Control: max-age=0
+2021-07-23 16:16:44.508685 [info]: sec-ch-ua: "Chromium";v="92", " Not A;Brand";v="99", "Google Chrome";v="92"
+2021-07-23 16:16:44.508687 [info]: oop!unknow header: sec-ch-ua: "Chromium";v="92", " Not A;Brand";v="99", "Google Chrome";v="92"
+2021-07-23 16:16:44.508692 [info]: sec-ch-ua-mobile: ?0
+2021-07-23 16:16:44.508695 [info]: oop!unknow header: sec-ch-ua-mobile: ?0
+2021-07-23 16:16:44.508697 [info]: Upgrade-Insecure-Requests: 1
+2021-07-23 16:16:44.508700 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2021-07-23 16:16:44.508702 [info]: Origin: http://127.0.0.1:9006
+2021-07-23 16:16:44.508704 [info]: oop!unknow header: Origin: http://127.0.0.1:9006
+2021-07-23 16:16:44.508707 [info]: Content-Type: application/x-www-form-urlencoded
+2021-07-23 16:16:44.509354 [info]: oop!unknow header: Content-Type: application/x-www-form-urlencoded
+2021-07-23 16:16:44.509378 [info]: User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36
+2021-07-23 16:16:44.509385 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36
+2021-07-23 16:16:44.509388 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+2021-07-23 16:16:44.509391 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+2021-07-23 16:16:44.509393 [info]: Sec-Fetch-Site: same-origin
+2021-07-23 16:16:44.509395 [info]: oop!unknow header: Sec-Fetch-Site: same-origin
+2021-07-23 16:16:44.509398 [info]: Sec-Fetch-Mode: navigate
+2021-07-23 16:16:44.509400 [info]: oop!unknow header: Sec-Fetch-Mode: navigate
+2021-07-23 16:16:44.509402 [info]: Sec-Fetch-User: ?1
+2021-07-23 16:16:44.509404 [info]: oop!unknow header: Sec-Fetch-User: ?1
+2021-07-23 16:16:44.509407 [info]: Sec-Fetch-Dest: document
+2021-07-23 16:16:44.509409 [info]: oop!unknow header: Sec-Fetch-Dest: document
+2021-07-23 16:16:44.509424 [info]: Referer: http://127.0.0.1:9006/0
+2021-07-23 16:16:44.509430 [info]: oop!unknow header: Referer: http://127.0.0.1:9006/0
+2021-07-23 16:16:44.509432 [info]: Accept-Encoding: gzip, deflate, br
+2021-07-23 16:16:44.509494 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br
+2021-07-23 16:16:44.509500 [info]: Accept-Language: zh-CN,zh;q=0.9
+2021-07-23 16:16:44.509518 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9
+2021-07-23 16:16:44.509520 [info]: 
+2021-07-23 16:16:44.509522 [info]: user=%E5%87%BA&password=czwjss
+2021-07-23 16:16:44.537335 [info]: request:HTTP/1.1 200 OK
+
+2021-07-23 16:16:44.537458 [info]: request:HTTP/1.1 200 OK
+Content-Length:908
+
+2021-07-23 16:16:44.537470 [info]: request:HTTP/1.1 200 OK
+Content-Length:908
+Connection:keep-alive
+
+2021-07-23 16:16:44.537473 [info]: request:HTTP/1.1 200 OK
+Content-Length:908
+Connection:keep-alive
+
+
+2021-07-23 16:16:44.537627 [info]: send data to the client(127.0.0.1)
+2021-07-23 16:16:44.537647 [info]: adjust timer once
+2021-07-23 16:16:47.041841 [info]: timer tick
+2021-07-23 16:16:52.042392 [info]: timer tick
+2021-07-23 16:16:57.043018 [info]: timer tick
+2021-07-23 16:17:02.046798 [info]: timer tick
+2021-07-23 16:17:07.049004 [info]: timer tick
+2021-07-23 16:17:12.060826 [info]: timer tick
+2021-07-23 16:17:17.061668 [info]: timer tick
+2021-07-23 16:17:22.064405 [info]: timer tick
+2021-07-23 16:17:27.065535 [info]: timer tick
+2021-07-23 16:17:32.067262 [info]: timer tick
+2021-07-23 16:17:37.069096 [info]: timer tick
+2021-07-23 16:17:42.069547 [info]: timer tick
+2021-07-23 16:17:47.072069 [info]: timer tick
+2021-07-23 16:17:52.074999 [info]: timer tick
+2021-07-23 16:17:57.076947 [info]: timer tick
+2021-07-23 16:18:02.080390 [info]: timer tick
+2021-07-23 16:18:07.083507 [info]: timer tick
+2021-07-23 16:18:12.083649 [info]: timer tick
+2021-07-23 16:18:17.086152 [info]: timer tick
+2021-07-23 16:18:22.089135 [info]: timer tick
+2021-07-23 16:18:27.093044 [info]: timer tick
+2021-07-23 16:18:32.093344 [info]: timer tick
+2021-07-23 16:18:37.094281 [info]: timer tick
+2021-07-23 16:18:42.097236 [info]: timer tick
+2021-07-23 16:18:47.100189 [info]: timer tick
+2021-07-23 16:18:52.102139 [info]: timer tick
+2021-07-23 16:18:57.104130 [info]: timer tick
+2021-07-23 16:19:02.105222 [info]: timer tick
+2021-07-23 16:19:07.108191 [info]: timer tick
+2021-07-23 16:19:12.108434 [info]: timer tick
+2021-07-23 16:19:17.108898 [info]: timer tick
+2021-07-23 16:19:22.111783 [info]: timer tick
+2021-07-23 16:19:27.113575 [info]: timer tick
+2021-07-23 16:19:32.114831 [info]: timer tick
+2021-07-23 16:19:37.116345 [info]: timer tick
+2021-07-23 16:19:42.118314 [info]: timer tick
+2021-07-23 16:19:47.121186 [info]: timer tick
+2021-07-23 16:19:52.121494 [info]: timer tick
+2021-07-23 16:19:57.123147 [info]: timer tick
+2021-07-23 16:20:02.125691 [info]: timer tick
+2021-07-23 16:20:07.127801 [info]: timer tick
+2021-07-23 16:20:12.130632 [info]: timer tick
+2021-07-23 16:20:17.133578 [info]: timer tick
+2021-07-23 16:20:22.134977 [info]: timer tick
+2021-07-23 16:20:27.135966 [info]: timer tick
+2021-07-23 16:20:32.137997 [info]: timer tick
+2021-07-23 16:20:37.139101 [info]: timer tick
+2021-07-23 16:20:42.141230 [info]: timer tick
+2021-07-23 16:20:47.142273 [info]: timer tick
+2021-07-23 16:20:52.144308 [info]: timer tick
+2021-07-23 16:20:57.145354 [info]: timer tick
+2021-07-23 16:21:02.148691 [info]: timer tick
+2021-07-23 16:21:07.151660 [info]: timer tick
+2021-07-23 16:21:12.154605 [info]: timer tick
+2021-07-23 16:21:17.155772 [info]: timer tick
+2021-07-23 16:21:22.158192 [info]: timer tick
+2021-07-23 16:21:27.158574 [info]: timer tick
+2021-07-23 16:21:32.161307 [info]: timer tick
+2021-07-23 16:21:37.162786 [info]: timer tick
+2021-07-23 16:21:42.162920 [info]: timer tick
+2021-07-23 16:21:47.163642 [info]: timer tick
+2021-07-23 16:21:52.165453 [info]: timer tick
+2021-07-23 16:21:57.165856 [info]: timer tick
+2021-07-23 16:22:02.167761 [info]: timer tick
+2021-07-23 16:22:07.171579 [info]: timer tick
+2021-07-23 16:22:12.174584 [info]: timer tick
+2021-07-23 16:22:17.177764 [info]: timer tick
+2021-07-23 16:22:22.181427 [info]: timer tick
+2021-07-23 16:22:27.183879 [info]: timer tick
