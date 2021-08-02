@@ -2,12 +2,11 @@
  * @Author: czw
  * @Date: 2021-07-21 13:36:12
  * @LastEditors: czw
- * @LastEditTime: 2021-07-21 13:40:52
+ * @LastEditTime: 2021-07-28 13:40:52
 -->
 
 测试前确认已安装MySQL数据库
 
-    ```C++
     // 建立yourdb库
     create database yourdb;
 
@@ -20,18 +19,15 @@
 
     // 添加数据
     INSERT INTO user(username, passwd) VALUES('name', 'passwd'）;
-    ```
-
-    ```C++
 
     //数据库登录名,密码,库名
     string user = "root";
     string passwd = "root";
     string databasename = "yourdb";
-    ```
-    ```C++
+
+    //启动参数配置
     ./server [-p port] [-l LOGWrite] [-m TRIGMode] [-o OPT_LINGER] [-s sql_num] [-t thread_num] [-c close_log] [-a actor_model]
-    ```
+
 
 * -p，自定义端口号
 	* 默认9006
